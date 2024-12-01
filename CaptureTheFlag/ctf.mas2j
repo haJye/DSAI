@@ -1,0 +1,13 @@
+/*
+ Jason : Capture the flag
+*/
+
+MAS ctf {
+
+    infrastructure: Centralised
+
+    environment: CTFWorld
+    
+    agents: bob;bob2;bob3;bob4;bob5;rio;rio2;rio3;rio4;rio5;
+}
+
