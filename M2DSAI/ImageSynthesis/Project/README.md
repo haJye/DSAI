@@ -1,8 +1,6 @@
 # Solar System Simulation Report
 
 ## How to Run This Project??
-
-## Libraries and Dependencies:
 This project requires several libraries to run properly. Follow the steps below to install and set up the required dependencies.
 
 ### Step 1: Install Required Libraries
