@@ -1,5 +1,26 @@
 # Solar System Simulation Report
 
+## How to Run This Project??
+
+## Libraries and Dependencies:
+This project requires several libraries to run properly. Follow the steps below to install and set up the required dependencies.
+
+### Step 1: Install Required Libraries
+
+Before running the project, ensure that you have the following libraries installed:
+
+- **Pygame**: A set of Python modules designed for writing video games, which is used here for window management and input handling.
+- **PyOpenGL**: A Python binding for OpenGL, used for rendering 3D graphics.
+
+You can install these libraries using the following commands in your terminal:
+
+```bash
+pip install pygame == 2.6.1
+pip install PyOpenGL = 3.1.7
+```
+
+Python version 3.11.10
+
 ## Introduction
 This report provides an overview of a solar system simulation built using **Pygame** and **OpenGL**. The simulation showcases various celestial objects, their orbital mechanics, and visual effects, implemented using 3D rendering techniques.
 
