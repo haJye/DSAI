@@ -22,5 +22,4 @@ pip install PyOpenGL = 3.1.7
 Python version 3.11.10
 
 ### Music 
-- **Interstellar Main Theme** - **Hans Zimmer**
-- [Music Link](https://youtu.be/kpz8lpoLvrA?si=LODxKZLKSyyZHm8I)
+- [**Interstellar Main Theme** - **Hans Zimmer**](https://youtu.be/kpz8lpoLvrA?si=LODxKZLKSyyZHm8I)
