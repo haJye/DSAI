@@ -18,6 +18,8 @@ You can install these libraries using the following commands in your terminal:
 pip install pygame == 2.6.1
 pip install PyOpenGL = 3.1.7
 ```
+### For SDL visit below link
+[SDL Wiki](https://wiki.libsdl.org/SDL2/Installation)
 
 Python version 3.11.10
 
