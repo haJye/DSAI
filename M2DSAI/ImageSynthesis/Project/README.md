@@ -5,7 +5,7 @@
 ## How to Run This Project??
 This project requires several libraries to run properly. Follow the steps below to install and set up the required dependencies.
 
-### Step 1: Install Required Libraries
+### Install Required Libraries
 
 Before running the project, ensure that you have the following libraries installed:
 
@@ -20,3 +20,7 @@ pip install PyOpenGL = 3.1.7
 ```
 
 Python version 3.11.10
+
+### Music 
+- **Interstellar Main Theme** - **Hans Zimmer**
+- [Music Link](https://youtu.be/kpz8lpoLvrA?si=LODxKZLKSyyZHm8I)
