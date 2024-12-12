@@ -39,4 +39,4 @@ Python version 3.11.10
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out via email at [axundzade02@gmail.com].
+For any questions or suggestions, feel free to reach out via [email at](axundzade02@gmail.com).
