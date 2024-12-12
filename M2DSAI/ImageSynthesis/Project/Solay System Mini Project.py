@@ -12,11 +12,6 @@ pygame.init()
 WINDOW_WIDTH = 1920  # Fixed viewport width
 WINDOW_HEIGHT = 1080  # Fixed viewport height
 
-
-# Load and play background music
-pygame.mixer.music.load('main.mp3')  # Replace with your music file path
-pygame.mixer.music.play(-1, 0.0)  # Loop the music (-1 means infinite loop)
-
 # Start the program in fullscreen
 screen = pygame.display.set_mode((0, 0), FULLSCREEN | DOUBLEBUF | OPENGL)
 pygame.display.set_caption("Solar System Simulation")
@@ -113,22 +108,47 @@ camera_position = [0, 0, 15]
 camera_speed = 1.5
 time_scale = 1.0
 
-# Load textures for celestial objects
+
+# Load and play background music
+pygame.mixer.music.load('music\\main.mp3')  # Replace with your music file path
+pygame.mixer.music.play(-1, 0.0)  # Loop the music (-1 means infinite loop)
+
+
+# Images with high resolution(8K) 
+# Load textures for celestial objects 
 textures = {
-    "earth": load_texture("earth.jpg"),
-    "moon": load_texture("moon.jpg"),
-    "mars": load_texture("mars.jpg"),
-    "jupiter": load_texture("jupiter.jpg"),
-    "saturn": load_texture("saturn.jpg"),
-    "uranus": load_texture("uranus.jpg"),
-    "neptune": load_texture("neptune.jpg"),
-    "mercury": load_texture("mercury.jpg"),
-    "venus": load_texture("venus.jpg"),
-    "stars": load_texture("stars.jpg"),
-    "saturn_ring": load_texture("saturn_ring.png"),
-    "sun": load_texture("sun.jpg"),
-    "asteroid": load_texture("asteroids.jpg"),
+    "earth": load_texture("textures4k\\earth.jpg"),
+    "moon": load_texture("textures4k\\moon.jpg"),
+    "mars": load_texture("textures4k\\mars.jpg"),
+    "jupiter": load_texture("textures4k\\jupiter.jpg"),
+    "saturn": load_texture("textures4k\\saturn.jpg"),
+    "uranus": load_texture("textures4k\\uranus.jpg"),
+    "neptune": load_texture("textures4k\\neptune.jpg"),
+    "mercury": load_texture("textures4k\\mercury.jpg"),
+    "venus": load_texture("textures4k\\venus.jpg"),
+    "stars": load_texture("textures4k\\stars.jpg"),
+    "saturn_ring": load_texture("textures4k\\saturn_ring.png"),
+    "sun": load_texture("textures4k\\sun.jpg"),
+    "asteroid": load_texture("textures4k\\asteroids.jpg"),
 }
+
+# Images with medium resolution(2K)
+# Load textures for celestial objects 
+# textures = {
+#     "earth": load_texture("textures2k\\earth.jpg"),
+#     "moon": load_texture("textures2k\\moon.jpg"),
+#     "mars": load_texture("textures2k\\mars.jpg"),
+#     "jupiter": load_texture("textures2k\\jupiter.jpg"),
+#     "saturn": load_texture("textures2k\\saturn.jpg"),
+#     "uranus": load_texture("textures2k\\uranus.jpg"),
+#     "neptune": load_texture("textures2k\\neptune.jpg"),
+#     "mercury": load_texture("textures2k\\mercury.jpg"),
+#     "venus": load_texture("textures2k\\venus.jpg"),
+#     "stars": load_texture("textures2k\\stars.jpg"),
+#     "saturn_ring": load_texture("textures2k\\saturn_ring.png"),
+#     "sun": load_texture("textures2k\\sun.jpg"),
+#     "asteroid": load_texture("textures2k\\asteroids.jpg"),
+# }
 
 # Define planets with their properties
 planets = [
@@ -170,8 +190,6 @@ asteroids = [
     for _ in range(5)
 ]
 
-
-
 # Define comets with elliptical orbits
 comets = [
     {
@@ -210,10 +228,13 @@ def draw_rings(inner_radius, outer_radius, texture, num_segments=100):
     glEnd()
 
 
-
-
 # Main simulation loop statements
-fullscreen = False  # Tracks whether fullscreen is active
+
+#In future implementations "fullscreen" and "windowed mode" will be added 
+# fullscreen = False  # Tracks whether fullscreen is active
+# windowed = False # Tracks whether windowed mode is active
+
+
 running = True
 sun_rotation_angle = 0.01
 background_rotation_angle = 0.005
@@ -295,7 +316,7 @@ while running:
     glEnable(GL_LIGHTING)  # Re-enable lighting for the rest of the scene
     glPopMatrix()
 
-
+    # Unused code for this version of the program
     # # Draw orbit lines for each planet
     # # glDisable(GL_LIGHTING)  # Disable lighting for orbit lines
     # glLineWidth(1.0)  # Set orbit line thickness
