@@ -1,4 +1,6 @@
-# Solar System Simulation Report
+# Solar System Simulation
+
+![](https://github.com/haJye/DSAI/blob/main/M2DSAI/ImageSynthesis/Project/Gif.gif)
 
 ## How to Run This Project??
 This project requires several libraries to run properly. Follow the steps below to install and set up the required dependencies.
