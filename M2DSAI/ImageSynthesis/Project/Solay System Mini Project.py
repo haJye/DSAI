@@ -12,8 +12,10 @@ pygame.init()
 WINDOW_WIDTH = 1600  # Fixed viewport width
 WINDOW_HEIGHT = 900  # Fixed viewport height
 
-# Start the program in fullscreen
+# Start the program in fullscreen not working properly
 # screen = pygame.display.set_mode((0, 0), FULLSCREEN | DOUBLEBUF | OPENGL)
+
+
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT), DOUBLEBUF | OPENGL)
 pygame.display.set_caption("Solar System Simulation")
 
