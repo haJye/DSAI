@@ -114,7 +114,7 @@ pygame.mixer.music.load('music\\main.mp3')  # Replace with your music file path
 pygame.mixer.music.play(-1, 0.0)  # Loop the music (-1 means infinite loop)
 
 
-# Images with high resolution(8K) 
+# Images with high resolution(4K) 
 # Load textures for celestial objects 
 textures = {
     "earth": load_texture("textures4k\\earth.jpg"),
@@ -130,6 +130,7 @@ textures = {
     "saturn_ring": load_texture("textures4k\\saturn_ring.png"),
     "sun": load_texture("textures4k\\sun.jpg"),
     "asteroid": load_texture("textures4k\\asteroids.jpg"),
+    "pluto": load_texture("textures4k\\pluto.jpg"),
 }
 
 # Images with medium resolution(2K)
@@ -160,21 +161,23 @@ planets = [
     {"name": "Saturn", "size": 2, "orbit_radius": 18, "texture": textures["saturn"], "angle": 0, "speed": 0.006, "tilt": 26.7, "vertical_amplitude": 1.0},
     {"name": "Uranus", "size": 1.7, "orbit_radius": 22, "texture": textures["uranus"], "angle": 0, "speed": 0.004, "tilt": 97.8, "vertical_amplitude": 1.0},
     {"name": "Neptune", "size": 1.6, "orbit_radius": 26, "texture": textures["neptune"], "angle": 0, "speed": 0.003, "tilt": 28.3, "vertical_amplitude": 1.0},
+    {"name": "Pluto", "size": 0.5, "orbit_radius": 30, "texture": textures["pluto"], "angle": 0, "speed": 0.002, "tilt": 34.9, "vertical_amplitude": 1.0},
 ]
-# Adding satellites to some planets
+# Adding satellites to some planets. In future textures will be added for Earth and Jupiter.
 planets[2]["satellites"] = [  # Earth satellites
-    {"name": "Satellite 1", "size": 0.1, "orbit_radius": 1.8, "speed": 0.07, "angle": 0, "texture": textures["moon"]},
-    {"name": "Satellite 2", "size": 0.1, "orbit_radius": 2.1, "speed": 0.05, "angle": 0, "texture": textures["moon"]},
+    {"name": "Satellite 1", "size": 0.09, "orbit_radius": 1.8, "speed": 0.07, "angle": 0, "texture": textures["moon"]},
+    {"name": "Satellite 2", "size": 0.075, "orbit_radius": 2.1, "speed": 0.05, "angle": 0, "texture": textures["moon"]},
 ]
 
-planets[4]["satellites"] = [  # Jupiter satellites
-    {"name": "Io", "size": 0.2, "orbit_radius": 3, "speed": 0.04, "angle": 0, "texture": textures["moon"]},
-    {"name": "Europa", "size": 0.2, "orbit_radius": 3.5, "speed": 0.03, "angle": 0, "texture": textures["moon"]},
+# Jupiter satellites will be added in future. 
+planets[4]["satellites"] = [ 
+    {"name": "Io", "size": 0.1, "orbit_radius": 3, "speed": 0.04, "angle": 0, "texture": textures["moon"]},
+    {"name": "Europa", "size": 0.15, "orbit_radius": 3.5, "speed": 0.03, "angle": 0, "texture": textures["moon"]},
     {"name": "Ganymede", "size": 0.25, "orbit_radius": 4, "speed": 0.02, "angle": 0, "texture": textures["moon"]},
     {"name": "Callisto", "size": 0.2, "orbit_radius": 4.5, "speed": 0.01, "angle": 0, "texture": textures["moon"]},
 ]
 
-# Define Earth's moon properties
+# Define Earth's moon properties with orbit radius and speed.
 moon = {
     "name": "Moon",
     "size": 0.2,
@@ -184,13 +187,13 @@ moon = {
     "speed": 0.05,
 }
 
-# Define asteroid belt properties
+# Define asteroid belt properties with random orbit radius and speed.
 asteroids = [
     {"size": 0.1, "orbit_radius": random.uniform(9, 11), "angle": random.uniform(0, 2 * math.pi), "speed": random.uniform(0.035, 0.075)}
     for _ in range(5)
 ]
 
-# Define comets with elliptical orbits
+# Define comets with elliptical orbits. Textures will be added in future.
 comets = [
     {
         "name": "Halley",
@@ -317,6 +320,7 @@ while running:
     glPopMatrix()
 
     # Unused code for this version of the program
+    
     # # Draw orbit lines for each planet
     # # glDisable(GL_LIGHTING)  # Disable lighting for orbit lines
     # glLineWidth(1.0)  # Set orbit line thickness
