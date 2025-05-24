@@ -1,0 +1,306 @@
+ID,Name,Description,Allergens,Protein (g),Fat (g),Carbs (g),Energy (kcal),Image URL
+10,Hamburger,"Karamelləşdirilmiş bulkanın arasında 100% mal ətindən döyülmüş bifşteks, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Qlüten.",13.2,9.3,27.7,252,https://mcdonalds.az/images/7e2ebc7f8f56fbb9ea6374b5d7ad55e3.png
+11,Dabl Hamburger,"Karamelləşdirilmiş bulkanın arasında iki 100% mal ətindən döyülmüş bifşteks, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Qlüten.",20,16,31,350,https://mcdonalds.az/images/41f4b61d6b03de45443abbb89a2e4422.png
+12,Tripl Hamburger,"Yumşaq bulkasının arasında 3 ədəd 100% mal ətindən iştahaçan bifşteks, ketçup, xardal, duzlu xıyar və soğan.","Xardal, Qlüten.",27,20,31,420,https://mcdonalds.az/images/fe36ad169599d4ea770858b136e9e0eb.png
+13,Çizburger,"Karamelləşdirilmiş bulkanın arasında 100% mal ətindən döyülmüş bifşteks, Çedder pendirinin dilimi, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Yumurta, Qlüten.",16.1,13.1,28.5,300,https://mcdonalds.az/images/21a29d5d8d422d969e85b2c83e6ead97.png
+14,Dabl Çizburger,"Karamelləşdirilmiş bulkanın arasında iki ədəd 100% mal ətindən döyülmüş bifşteks, 2 Çedder pendirinin dilimi, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Yumurta, Qlüten.",27,22,34,443,https://mcdonalds.az/images/c3810fe9a08f596796758778288d4346.png
+15,Tripl Çizburger,"Yumşaq bulkasının arasında 3 ədəd 100% mal ətindən iştahaçan bifşteks, 3 ədəd əridilmiş çeddar pendiri, ketçup, xardal, duzlu xıyar və soğan.","Xardal, Süd, Soya, Yumurta, Qlüten.",37,32,34,578,https://mcdonalds.az/images/c9023fbb49dea6116cc7ba7f551c3b82.png
+16,Çikenburger,Təzə kahı və xüsusi McChicken® sousu ilə dadlandırılmış və karamelli bulkada verilən suxarıya batırılmış qızardılmış toyuq kotleti.,"Xardal, Yumurta, Qlüten.",12,15,31,339,https://mcdonalds.az/images/e2ae3bbc9f9fba3a4b4e2e1770880023.png
+17,McChicken™,"Karamelləşdirilmiş bulkanın arasında suxarıya batırılmış, qızardılmış toyuq kotleti, təzə Aysberq salatı və xüsusi McChicken™ sousu.","Xardal, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",16,27,45,480,https://mcdonalds.az/images/a4daa7dd0522cd28d8a4bd148d5721c2.png
+18,Dabl McChicken™,"Karamelləşdirilmiş bulkanın arasında suxarıya batırılmış, qızardılmış iki toyuq kotleti, təzə Aysberq salatı və xüsusi McChicken™ sousu.","Xardal, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",32.5,40.3,54,712,https://mcdonalds.az/images/2f32b3ec9f8a03bcf9577df2e1b58830.png
+19,Filet-O-Fish™,"İsti, yumşaq bulkanın arasında yaxşıca qızardılmış balıq filesi (xordalılar sinfi), yarım dilim Çedder pendiri və Tar-Tar sousu.","Xardal, Süd, Soya, Yumurta, Balıq, Qlüten.",11,15,26,282,https://mcdonalds.az/images/4e4af6b5506f1a3524f34301ad632fce.png
+20,Dabl Filet-O-Fish™,"İsti yumşaq bulkanın arasında yaxşıca qızardılmış iki tikə balıq filesi (treskakimilər sinfi), 2 kiçik dilim Çedder pendiri və Tar-Tar sousu.","Xardal, Süd, Soya, Yumurta, Balıq, Qlüten.",26,21,45,478,https://mcdonalds.az/images/f2ec04b4074f5c4dde9e33149648cfbf.png
+21,Big Mac™,"Küncütlü bulkanın arasında iki ədəd 100% mal ətindən döyülmüş bifşteks, soğan, iki dilim duzlu xiyar, Çedder pendirinin 1 dilimi, Aysberq salatı və xüsusi Big Mac™ sousu.","Xardal, Süd, Soya, Yumurta, Qlüten, Küncüt tumları.",28,28,48,558,https://mcdonalds.az/images/8910b43241f23679d86e379346e3cbf7.png
+22,Dabl Big Mac™,"Küncütlü bulkanın arasında dörd ədəd 100% mal ətindən döyülmüş bifşteks, soğan, iki dilim duzlu xiyar, Çedder pendirinin 1 dilimi, Aysberq salatı və xüsusi Big Mac™ sousu.","Xardal, Süd, Soya, Yumurta, Qlüten, Küncüt tumları.",38,44,48,740,https://mcdonalds.az/images/95b0adcbdfb2ff672c6b0a6fa1a3a07d.png
+23,Royal Çizburger,"Karamelləşdirilmiş küncütlü bulkanın arasında 100% mal ətindən döyülmüş bifşteks, 2 ədəd Çedder pendirinin dilimi, xardal, ketçup, təzə soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Qlüten, Küncüt tumları.",32,25,38,507,https://mcdonalds.az/images/93fb52864d15232173d05770eb5c818e.png
+24,Dabl Royal Çizburger,"Karamelləşdirilmiş bulkanın arasında iki ədəd 100% mal ətindən döyülmüş bifşteks, 2 Çedder pendirinin dilimi, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Qlüten, Küncüt tumları.",41.9,40.8,25.5,639,https://mcdonalds.az/images/600627901ee83e673a8373109f48e437.png
+25,Big Tasty™ (Ət),"Həcmli küncütlü bulka arasında böyük, 100% mal ətindən döyülmüş bifşteks olan burger. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",44,48,50,812,https://mcdonalds.az/images/387c433be255a2119d7a48f77e959cb0.png
+26,Big Tasty™ (Toyuq),"Həcmli küncütlü bulka arasında toyuqdan olan kotlet. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",44,48,50,812,https://mcdonalds.az/images/4a16e2cfa8dd7418b841019600ceb785.png
+27,Sezar Roll,"Lavaşda Sezar sousun əlavəsi ilə suxarıya batırılmış, qızardılmış toyuq kotleti, Aysberq salatı, təzə pomidor dilimi və ovulmuş bərk pendir.","Xardal, Süd, Yumurta, Qlüten.",20,24,42,472,https://mcdonalds.az/images/65ff4f0be1651e8a897f635ca8fc48d6.jpg
+28,"Qəhvə
+                                                                (Kiçik)","“Paulig” şirkətinin istehsalı olan seçilmiş, təzə üyüdülmüş və qovrulmuş qara qəhvə.",,0,0,0,29,https://mcdonalds.az/images/86a64dec13b990904e28e024036fd338.jpg
+29,"Çiken McNuggets
+                                                                (4 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179,https://mcdonalds.az/images/3fc7ffafe2014a470c7c048ed9bf89af.png
+33,"Krevetlər
+                                                                (4 əd.)","Fritürda, unda qızardılmış xırçıldayan krevet. 1000 ada sousu ilə təqdim olunur.","Soya, Balıq, Qlüten.",10,9,15,180,https://mcdonalds.az/images/ef6ed48922ff9d705304228004281b41.png
+35,"Soğan halqaları
+                                                                (5 əd.)",Unda qızardılmış təzə soğan dilimləri.,"Süd, Qlüten.",4,11,28,230,https://mcdonalds.az/images/806e65fd0098f57175341b08850a650c.jpg
+37,Happy Meal™ (Hamburger ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi:  Hamburger; İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Xardal, Qlüten.",21,10,53,390,https://mcdonalds.az/images/1228ef42ddf7c76f4aa295fc107e6de0.png
+38,Happy Meal™ (Çizburger ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi: Çizburger; İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Xardal, Süd, Soya, Yumurta, Qlüten.",16,16,74,501,https://mcdonalds.az/images/a34b5f4951bcf508eea5135edc2b4b40.png
+39,Happy Meal™ (Çikenburger ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi: Çikenburger; İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Xardal, Yumurta, Qlüten.",18,20,116,730,https://mcdonalds.az/images/a045b0fae1ccb57585175bdb27fab9ff.png
+40,Happy Meal™ (Çiken McNuggets ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi: Çiken McNuggets (4 ədəd); İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Kərəviz, Qlüten.",21,12,35,330,https://mcdonalds.az/images/3adf5f66c4d2c04ecfd72574e98062ba.png
+41,"Frenç Frayz
+                                                                (Kiçik)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231,https://mcdonalds.az/images/31323ee526b0ca6b84abb356218c69ca.png
+45,"Kənd kartofu
+                                                                (Orta)","İştahalı və dadlı, fritürda qızardılmış ədviyyatlı kartof dilimləri.",,3,11,31,243,https://mcdonalds.az/images/30e5dd46d3aaceb91fbba9a5474655cc.jpg
+48,Ketçup,İştahalı tomat sousu.,Kərəviz.,,,,,https://mcdonalds.az/images/33b126e548fbf0ae3506576f015ba50b.jpg
+49,Mayonez,Dadlı və ətirli sous.,"Xardal, Yumurta.",,,,,https://mcdonalds.az/images/057f78db959e32d84c70c332a9de845c.jpg
+50,Barbekyu sousu,"İştahaçan, ədviyyatlı sous.","Xardal, Kərəviz, Yumurta",0,0,11,47,https://mcdonalds.az/images/199f265a7c5431a792e37006e9166a8d.jpg
+51,Turşa-Şirin sous,"Şirin dadlı, ətirli sous.","Süd, Kərəviz, Qlüten.",0,0,12,49,https://mcdonalds.az/images/2e2a8ab4054a610176f6acd3c49a8365.jpg
+52,Pendirli sous,Pendirdən hazırlanmış nəfis dadlı sous.,"Süd, Yumurta, Sulfar dioksid.",,,,,https://mcdonalds.az/images/042911bec30300dcc2e5ff2eba20f039.jpg
+53,Xardal,Acı və yumşaq dadlı əsl xardal sousu.,"Xardal, Yumurta.",0,3,7,62,https://mcdonalds.az/images/bf697c4efbeb62ba1c6571bd42eaa7b8.png
+54,1000 Ada sousu,Zəngin dadlı iştahaçan sous.,"Süd, Balıq, Qlüten.",,,,,https://mcdonalds.az/images/b9d28e5ad6a7ceed89ffdefa72dae1aa.png
+55,"Frenç Frayz
+                                                                (Orta)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231,https://mcdonalds.az/images/e9dcbddeed68b0bebe2b18ac599cb1e6.png
+56,"Frenç Frayz
+                                                                (Böyük)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231,https://mcdonalds.az/images/b73712825bb33395621d3942747e4904.png
+57,"Frenç Frayz
+                                                                (Ekstra)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231,https://mcdonalds.az/images/8bc07153987f86293ddb607b01acc5c7.png
+58,"Coca-Cola™
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/944fd4678c4bab91146f551969effcc1.jpg
+59,"Coca-Cola™
+                                                                (Orta)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/741b302ffda5791904f94c1d00975da1.jpg
+60,"Coca-Cola™
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/2dd849c075595b3e1afa61052c7a55a1.jpg
+61,"Coca-Cola™
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/8d77ac944dd8b7ed61dda529c0be09dd.jpg
+62,"Fanta™
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/c1bdaffcaa6d26f05dbc3cd10d5dc91d.jpg
+63,"Fanta™
+                                                                (Orta)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/52d36dd322927326544571d9ec09f347.jpg
+64,"Fanta™
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/d0e85c24981ddde8008c80c80f7c6f05.jpg
+65,"Fanta™
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/54abe395562f594f1619a2ebe6806086.jpg
+66,"Sprite™
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/6f06f0efc8bcadf88fdfedff3175e7d8.jpg
+67,"Sprite™
+                                                                (Orta)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/a2df072f2d02ea461c789f457851ae1b.jpg
+68,"Sprite™
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/e0dd73fecc7af4e11d55e188e410c6cf.jpg
+69,"Sprite™
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/42903e27d41c02618adea327c2042a6b.jpg
+70,"Ice Tea
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/f8348758b50d78a0ca3af19a42b84de4.jpg
+71,"Ice Tea
+                                                                (Orta)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/c7ed9d3cb47df5633cfff29acbf30a8f.jpg
+72,"Ice Tea
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/c86193b5dd009e1cc422099839085886.jpg
+73,"Ice Tea
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/4951e114475cf9a500e5d79c1e2ae1eb.jpg
+74,"Qazlı su
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/bc2d3ca3d662f48f094c16a5c981ad65.jpg
+75,"Qazlı su
+                                                                (Orta)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/706ed4165bebd4b1d992e42e42dcd852.jpg
+76,"Qazlı su
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/35be4a9ab9179c97590b0e60ed39c495.jpg
+77,"Qazlı su
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,,https://mcdonalds.az/images/a5325104dc7564100eea948dc572c061.jpg
+78,"Limonad Marakuya
+                                                                (0.4L)",Marakuya dadlı sərinləşdirici qazlı içki.,,,,,,https://mcdonalds.az/images/ba8ccbbcbdbc8c1e27bec8cdf8f74690.png
+79,"Limonad Babl Qam
+                                                                (0.4L)",Babl Qum saqqız dadlı sərinləşdirici qazlı içki.,,,,,,https://mcdonalds.az/images/282b467252a27d2133920ef639123a40.jpg
+80,"Portağal şirəsi
+                                                                (0.25L)",Təbii konsentratdan hazırlanmış təzə portağal şirəsi.,,,,,,https://mcdonalds.az/images/5bca708900fb24aed0548b3d01274835.png
+81,"Portağal şirəsi
+                                                                (0.4L)",Təbii konsentratdan hazırlanmış təzə portağal şirəsi.,,,,,,https://mcdonalds.az/images/6e8162cefaa46130b36d648c4ec85be5.png
+82,Ayran,"Yerli istehsal olan, təzə süddən hazırlanmış, həzmi yaxşılaşdıran və iştahanı artıran dadlı ayran.",Süd.,2.2,16,3.4,37,https://mcdonalds.az/images/4efa08c569e2176db573307e3adf1491.jpg
+83,Cappy Şirəsi,Təbii meyvə şirəsi.,,,,,,https://mcdonalds.az/images/b3324d08a0163fdc202e3508db835c2b.jpg
+84,Bonaqua,Qazsız su.,,,,,,https://mcdonalds.az/images/cc99796f18b9269f39713330cc9e79d4.jpg
+85,"Qəhvə
+                                                                (Böyük)","“Paulig” şirkətinin istehsalı olan seçilmiş, təzə üyüdülmüş və qovrulmuş qara qəhvə.",,0,0,0,29,https://mcdonalds.az/images/cfe6e3bad53d667c4ec6c3256385205b.png
+86,Dabl Espresso,Heç bir əlavə olmadan üyüdülmüş qəhvəli filtrdan təzyiq altında qaynar suyun keçməsi nəticəsində alınan qəhvə içkisi. McDonald’s-da yalnız  “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.,,,,,,https://mcdonalds.az/images/0927502ad5923d4070321dca23931b19.jpg
+87,"Kapuçino
+                                                                (Kiçik)","Təzə, üzlü və köpüklü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,5,78,https://mcdonalds.az/images/807a913515d0a235cdfc4007602b3917.jpg
+88,"Kapuçino
+                                                                (Böyük)","Təzə, üzlü və köpüklü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,5,78,https://mcdonalds.az/images/468dccf96ae6d93ef84d298f9ba1c793.png
+89,"Latte
+                                                                (Kiçik)","Təzə, üzlü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,6,78,https://mcdonalds.az/images/039ba467bfb9bfcc66f4795b0d199b5f.jpg
+90,"Latte
+                                                                (Böyük)","Təzə, üzlü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,6,78,https://mcdonalds.az/images/6cb392cb9564aa58a793545daeb4e963.png
+91,"İsti şokolad
+                                                                (Kiçik)",İsti Şokolad – südün əlavəsi ilə təbii kakao əsasında hazırlanmış dadlı içkidir.,"Süd, Soya.",8,18,31,319,https://mcdonalds.az/images/1cb8de5ac79bbd284643fd864bf333ce.jpg
+92,"İsti şokolad
+                                                                (Böyük)",İsti Şokolad – südün əlavəsi ilə təbii kakao əsasında hazırlanmış dadlı içkidir.,"Süd, Soya.",8,18,31,319,https://mcdonalds.az/images/feac8dffdc94e20d2cc29435a12c5b19.png
+93,"Südlü Kokteyl (Şokolad)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.","Süd, Soya, Sulfar dioksid və sulfitlər.",6,5,43,247,https://mcdonalds.az/images/ecbd9e200fb4f54f95b720b5c2c0f5c0.jpg
+94,"Südlü Kokteyl (Şokolad)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.","Süd, Soya, Sulfar dioksid və sulfitlər.",6,5,43,247,https://mcdonalds.az/images/ee6db7979eef34535bc6eff7ec4cae29.jpg
+95,"Südlü Kokteyl (Şokolad)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.","Süd, Soya, Sulfar dioksid və sulfitlər.",6,5,43,247,https://mcdonalds.az/images/bd35be2291d608f45b3bcffd7f67dc84.jpg
+96,"Südlü Kokteyl (Vanil)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244,https://mcdonalds.az/images/d30948d2e54e11a95bda3fde55511d25.jpg
+97,"Südlü Kokteyl (Vanil)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244,https://mcdonalds.az/images/84d11e8cf7e608daf092dc48334ba4ef.jpg
+98,"Südlü Kokteyl (Vanil)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244,https://mcdonalds.az/images/73bf6ffb3b27b26e98a4ab67bd9cdec8.jpg
+99,"Südlü Kokteyl (Çiyələk)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244,https://mcdonalds.az/images/341604d3ce1bc4cba24bec91678129ed.jpg
+100,"Südlü Kokteyl (Çiyələk)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244,https://mcdonalds.az/images/7f22a706324dac36a645e1f827a92520.jpg
+101,"Südlü Kokteyl (Çiyələk)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244,https://mcdonalds.az/images/ef0969ed74263070ff6e0139039a9768.jpg
+102,McFlurry™ (Kit-Kat™),"Şokolad (Kit-Kat™ ilə) əlavəli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",7,11,71,406,https://mcdonalds.az/images/81a1e4799865050ac461373d95c5ffaa.png
+103,McFlurry™ (Çiyələk Kit-Kat™),"Kit-Kat™ və Çiyələk əlavəli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",7,11,71,406,https://mcdonalds.az/images/65a3fd5bbceb7ab16ea5e97f89e2ef6f.png
+104,Meyvəli Piroq (Albalı),"Mövsümə görə dəyişən giləmeyvə/meyvə içlikli, fritürda qızardılmış isti xırçıldayan piroqlar.",Qlüten.,3,7,25,180,https://mcdonalds.az/images/00fd019c1ad1311d27e7dd43781a4ca5.png
+105,Meyvəli Piroq (Çiyələk və Krem Çiz),"Çiyələk və Krem Çiz içlikli, xırçıldayan, dadlı və isti piroqlar.",Qlüten.,3,7,25,180,https://mcdonalds.az/images/fd50a769b348b615124e3e0101e127d9.png
+106,Maffin (Şokolad),Şokolad cemi ilə incə ətirli keks.,"Süd, Soya, Yumurta, Qlüten.",5,12,55,360,https://mcdonalds.az/images/cf365307b2f7aad9e7c7a28143a2c8ba.png
+107,Maffin (Qara qarağat),Qara qarağat cemli incə ətirli keks.,"Süd, Soya, Yumurta, Qlüten.",5,11,45,360,https://mcdonalds.az/images/d6c200c070f40928359927b6131303b3.jpg
+108,Maffin (Banan),Banan cemli incə ətirli keks.,"Fındıq, Araxis, Süd, Soya, Yumurta, Qlüten.",5,16,49,360,https://mcdonalds.az/images/673d659ad0ac4c0d8616192593a6cdd1.png
+109,Şokoladlı Tort,"Avstriya tortu ""Zaxer""in resepti əsasında hazırlanmış şokoladlı tort.","Araxis, Süd, Soya, Qlüten, Küncüt tumları.",3,14,52,351,https://mcdonalds.az/images/b6082040e27e207731f2f68dd350c5ec.png
+110,MakSandey Dondurması (Şokolad),"Təbii, üzlü süddən hazırlanmış şokolad dolğulu dondurma.",Süd.,6,9,51,310,https://mcdonalds.az/images/77632e5415b3001910e1b5113ce5aac7.png
+111,MakSandey Dondurması (Karamel),"Təbii, üzlü süddən hazırlanmış karamel dolğulu dondurma.","Süd, Sulfar dioksid.",6,9,51,310,https://mcdonalds.az/images/0299f066cba58300761984b7109093c8.png
+112,MakSandey Dondurması (Strawberry),"Təbii, üzlü süddən hazırlanmış çiyələk dolğulu dondurma.",Süd.,5,4,48,258,https://mcdonalds.az/images/20c0c23086f4194a5518621ae6811dbb.png
+113,"Konus Dondurması
+                                                                (Kiçik)","Vafli konusun içində təbii, üzlü süddən hazırlanmış qaymaqlı dondurma.","Süd, Qlüten.",3,3,23,140,https://mcdonalds.az/images/a8dc4b10fccdef552dcd7b88a9bd8142.jpg
+114,"Konus Dondurması
+                                                                (Böyük)","Vafli konusun içində təbii, üzlü süddən hazırlanmış qaymaqlı dondurma.","Süd, Qlüten.",3,3,23,140,https://mcdonalds.az/images/850048dd7aeb9147a579d8df7deba265.jpg
+115,McFlurry™ (Karamel Kit-Kat™),"Kit-Kat™- karamelli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",7,11,67,405,https://mcdonalds.az/images/10e51a3413f5664d496966a864692cbf.png
+116,"Çiken McNuggets
+                                                                (6 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179,https://mcdonalds.az/images/22d094911c5c728c5a8a3f819fb48a14.png
+117,"Çiken McNuggets
+                                                                (9 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179,https://mcdonalds.az/images/1a24b33b4b26488cfd2ef379475976cb.png
+118,"Çiken McNuggets
+                                                                (20 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179,https://mcdonalds.az/images/fc1749f66750c6bc5c2a38400b492bc4.png
+119,"Krevetlər
+                                                                (6 əd.)","Fritürda, unda qızardılmış xırçıldayan krevet. 1000 ada sousu ilə təqdim olunur.","Soya, Balıq, Qlüten.",10,9,15,180,https://mcdonalds.az/images/bb89b4fb7e08f86297ae7a879d211212.png
+120,"Soğan halqaları
+                                                                (10 əd.)",Unda qızardılmış təzə soğan dilimləri.,"Süd, Qlüten.",4,11,28,230,https://mcdonalds.az/images/34b2672bedf84fe99fcd7c95ce18c828.png
+121,"Kənd kartofu
+                                                                (Böyük)","İştahalı və dadlı, fritürda qızardılmış ədviyyatlı kartof dilimləri.",,3,11,31,243,https://mcdonalds.az/images/a4fc5ab7247f6e41717e015f0049179e.jpg
+122,"Kənd kartofu
+                                                                (Ekstra)","İştahalı və dadlı, fritürda qızardılmış ədviyyatlı kartof dilimləri.",,3,11,31,243,https://mcdonalds.az/images/b6ccf2f8293472aa07db7fd7f50eccd5.jpg
+123,"Çay
+                                                                (0.3L)",Dabl Espresso,,,,,,https://mcdonalds.az/images/69ee071d4bb07fba16f1b6a94f51438c.png
+124,Sarımsaqlı sous,Ədviyyatlı sarımsağlı sous.,"Xardal, Yumurta.",,,,,https://mcdonalds.az/images/a96d8ec2df51bfd6149db759d7772619.png
+125,"Çay
+                                                                (0.4L)",Dabl Espresso,,,,,,https://mcdonalds.az/images/6acfd46afe0e86583cf77f0058b359b5.png
+126,"Portağal şirəsi
+                                                                (0.5L)",Təbii konsentratdan hazırlanmış təzə portağal şirəsi.,,,,,,https://mcdonalds.az/images/60eac67f2f28939ba89cf3d7b4dc310c.png
+127,"Südlü Kokteyl (Qəhvə)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",,,,,,https://mcdonalds.az/images/72ca8717c91f9f7922e423421520fd40.png
+128,"Südlü Kokteyl (Qəhvə)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",,,,,,https://mcdonalds.az/images/1161fdfb1d054aa2b16729a092a5d0aa.png
+129,"Südlü Kokteyl (Qəhvə)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",,,,,,https://mcdonalds.az/images/64dc457ce0ffdc3050fdd6501f220905.png
+130,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,,No image
+131,"Toyuq qanadları
+                                                                (3 əd.)",Ədviyyəli və qədərində xırçıltılı toyuq qanadları.,Qlüten.,17,14,19,268,https://mcdonalds.az/images/eec170dd5bc3cab3f86f9fabf4531f29.png
+132,"Toyuq qanadları
+                                                                (5 əd.)",Ədviyyəli və qədərində xırçıltılı toyuq qanadları.,Qlüten.,17,14,19,268,https://mcdonalds.az/images/dd3e1f091aa01f7c5e4c1b99279b5932.png
+140,Maffin (Şokolad və plombir),Şokolad və plombir ilə incə ətirli keks.Şokolad və plombir ilə incə ətirli keks.,"Süd, Küncüt, Laktoza, Qlüten.",5,16,49,360,https://mcdonalds.az/images/8139b39cd72f434a21dcbb720fb053f6.jpg
+141,Çurasko Burger (ət),"Çurasko burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, duzlu xiyar və təzə pomidor dilimləri, reyhan və çurasko sousları.","Süd, Yumurta, Qlüten, Küncüt tumları.",54,53,91,542,https://mcdonalds.az/images/171fb586b198276500ac3454c8ddae66.jpg
+142,Çurasko Burger (toyuq),"Çurasko burgerin tərkibi: küncütlü brioş bulka, toyuq ətindən kotlet, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, duzlu xiyar və təzə pomidor dilimləri, reyhan və çurasko sousları.","Süd, Yumurta, Qlüten, Küncüt tumları.",27,13,60,540,https://mcdonalds.az/images/7999dc28de3b6e167e5934c2182a76d6.jpg
+143,Manqal (Ət),"Yumşaq küncütlü bulkasının arasında 100% mal ətindən iştahaçan bifşteks, dadlı souslar, xırçıldayan salatı, duzlu xıyar, təzə qırmızı soğan və pomidor.","Süd, Yumurta, Qlüten, Xardal, Küncüt tumları.",,,,,https://mcdonalds.az/images/654869b256914f936c050bdc2ad7a623.png
+144,Manqal (Toyuq),"Yumşaq küncütlü bulkasının arasında toyuq əti, dadlı sous, xırçıldayan salatı, duzlu xıyar, təzə qırmızı soğan və pomidor.","Süd, Yumurta, Qlüten, Xardal, Küncüt tumları.",,,,,https://mcdonalds.az/images/a7edcaed4706707d7b5064f2ba7c715b.jpg
+145,"Spaysi Çizzi
+                                                                (5 əd.)",Çili istiotlu xırçıldayan əridilmiş pendir.,"Süd, Soya, Qlüten, Yumurta.",,,,,https://mcdonalds.az/images/d019c15fdde4d0bbeea6843d5012141d.jpg
+146,"Spaysi Çizzi
+                                                                (10 əd.)",Çili istiotlu xırçıldayan əridilmiş pendir.,"Süd, Soya, Qlüten, Yumurta.",,,,,https://mcdonalds.az/images/db539b544b2c117dbaf3b63217573762.jpg
+147,Çiz Delüks (ət),"Çiz Delüks burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, pendir kotletı, aysberq salatı, qızardılmış soğan və xüsüsi sous.","Süd, Yumurta, Qlüten, Küncüt tumları.",,,,,https://mcdonalds.az/images/5f34b23a42a4a2eadf60bb43058dfbb6.jpg
+148,Çiz Delüks (toyuq),"Çiz Delüks burgerin tərkibi: küncütlü brioş bulka, toyuq filesi, pendir kotlet, aysberq salatı, qızardılmış soğan və xüsüsi sous.","Süd, Yumurta, Qlüten, Küncüt tumları.",,,,,https://mcdonalds.az/images/235d3de32966c70e572c8da6d2e30360.jpg
+149,Tərəvəz salatı,"Təzə salat miksi, çeri pomidorları, parmezan pendiri və zeytun.","Süd, Yumurta.",0.8,2,2,31,https://mcdonalds.az/images/cab95537ad86168050d52a2c113c9e9d.png
+151,Krevetli Sezar,"Qızardırılmış krevetlər, təzə qarışıq salat, çeri pomidorları və parmezan pendiri.","Süd, Yumurta, Xərçəng-kimilər.",,,,,https://mcdonalds.az/images/b7771afb87ee96f7479779d4e618a932.png
+152,Toyuqlu Sezar,"Qızardırılmış toyuq filesi, təzə qarışıq salat, çeri pomidorları və parmezan pendiri.","Süd, Yumurta, Kərəviz.",15,11,17,231,https://mcdonalds.az/images/eebf6f5853eb1abb7cb76eb0da11964c.png
+153,“House” sous,"Allergenlər: Xardal, Süd, Yumurta, Kərəviz.","Xardal, Süd, Yumurta, Kərəviz.",1,11,7,141,https://mcdonalds.az/images/6a3a8dae066d83e9d0fb6f098f437436.png
+154,Zeytun yağı,Kokteyl Sous,,,,,,https://mcdonalds.az/images/231b990b79168af507ad563b7d506d9f.png
+155,Sezar sous,"Allergenlər: Süd, Yumurta.","Süd, Yumurta.",2,28,8,304,https://mcdonalds.az/images/901ce4e7980201578b556a7873a07d0a.png
+156,McFlurry™ Oreo,"Təbii, üzlü süddən hazırlanmış, Oreo dondurma.","Fındıq, Süd.",,,,,https://mcdonalds.az/images/7ac022053ccb5318b76e5cbe337025ef.png
+157,Oreo Şeyk,Təzə süd və oreo dənələri qarışığından hazırlanmış ətirli kokteyl.,"Fındıq, Süd.",,,,,https://mcdonalds.az/images/b0a22acafc29344ca13bcdd49df34bf4.png
+158,Kokteyl Sous,Zəngin dadlı iştahaçan sous.,"Xardal, Kərəviz, Süd, Yumurta.",3,30,,329,https://mcdonalds.az/images/87bde46b7a061c434175d8bf9bb8fea1.png
+159,Salsa sous,"İştahaçan, ədviyyatlı sous.","Xardal, Yumurta.",0,0,7,36,https://mcdonalds.az/images/e6efb4d88d00e0947b6dceb85ddd9e48.png
+160,"Amerikano
+                                                                (0.3L)","Rainforest Alliance Certified™ ticarət nişanlı espressomuzun üzərinə qaynar su əlavə etməklə hazırlanan sadə, ətirli Amerikano.",,,,,,https://mcdonalds.az/images/84c1338fc7ce86abede76b38a92fa5d1.jpg
+161,"Amerikano
+                                                                (0.4L)","Rainforest Alliance Certified™ ticarət nişanlı espressomuzun üzərinə qaynar su əlavə etməklə hazırlanan sadə, ətirli Amerikano.",,,,,,https://mcdonalds.az/images/2956b1578e57e13dbabf3be6421c77fe.jpg
+162,İkili Espresso,"Rainforest Alliance Certified™ ticarət nişanlı espressomuzun üzərinə qaynar su əlavə etməklə hazırlanan sadə, ətirli Espresso.",,0,0,0,2,https://mcdonalds.az/images/f6e97d9e002fead1123ccf7f0685600a.jpg
+163,"Kapuçino
+                                                                (0.2L)","Buğa verilmiş üzlü süd və ekoloji təmiz mənbələrdən toplanmış dənlərdən hazırlanan tünd espresso ilə McCafé® Kapuçino, köpükləndirilmiş süd və seçdiyiniz ətir ilə.",Süd.,3,3,5,70,https://mcdonalds.az/images/2f4ccf7ebf8280c4326e3ce362c07182.jpg
+164,"Latte
+                                                                (0.3L)","Rainforest Alliance Certified™ ticarət nişanlı espressodan McCafé® Latte, buğa verilmiş süd ilə.",Süd.,3,3,10,123,https://mcdonalds.az/images/f9f07b6267db64d338082787e680421a.jpg
+165,"Latte
+                                                                (0.4L)","Rainforest Alliance Certified™ ticarət nişanlı espressodan McCafé® Latte, buğa verilmiş süd ilə.",Süd.,3,3,10,123,https://mcdonalds.az/images/a590e65c3d4b6d3a1f0f2bccf54a67b8.jpg
+166,"Mokko latte
+                                                                (0.4L)","Ekoloji təmiz mənbələrdən – Rainforest Alliance sertifikatlı fermalardan toplanmış espresso dənlərindən hazırlanan McCafé® Mokko latte, buğa verilmiş üzlü süd və şokolad siropu ilə. Çalınmış qaymaqla bəzədilir, üzərinə şokolad pudrası səpilir.",Süd.,11,9,32,256,https://mcdonalds.az/images/ff7f64516112b7c4f7d8442b16f1b8a2.jpg
+167,"Latte makiato
+                                                                (0.3L)","McCafé® Mocha latte resepti Rainforest Alliance Certified™ fermalarından ekoloji təmiz şəkildə toplanmış espresso dənələrindən, üzlü süddən və şokolad siropundan hazırlanır, çalınmış qaymaq və şokolad tozu əlavə edilir.",Süd.,20,7,19,226,https://mcdonalds.az/images/74b154563db8104c864c715d714470ea.jpg
+168,"Latte makiato
+                                                                (0.4L)","McCafé® Mocha latte resepti Rainforest Alliance Certified™ fermalarından ekoloji təmiz şəkildə toplanmış espresso dənələrindən, üzlü süddən və şokolad siropundan hazırlanır, çalınmış qaymaq və şokolad tozu əlavə edilir.",Süd.,20,7,19,226,https://mcdonalds.az/images/2c1fe51b43807e27b083d0eab3014ece.jpg
+169,"Raf
+                                                                (0.4L)","Ekoloji təmiz mənbələrdən – Rainforest Alliance sertifikatlı fermalardan toplanmış espresso dənlərindən hazırlanan McCafé® Raf latte, buğa verilmiş üzlü süd, çalınmış qaymaq və vanilli sirop ilə.",Süd.,7,24,19,316,https://mcdonalds.az/images/030f1e3d3408eddde80e3f6c630cec18.jpg
+170,"Flet Uayt
+                                                                (0.2L)",Buğa verilmiş və yüngülcə köpükləndirilmiş orqanik süd ilə qarışdırılmış ikiqat espresso porsiyası ilə McCafé® Flet.,Süd.,5,6,8,113,https://mcdonalds.az/images/601eb6b98407dd3c2b2dd73bdd0b6e17.jpg
+171,İsti şokolad,"Buğa verilmiş üzlü süd və şokoladlı sirop ilə isti şokolad. Çalınmış qaymaqla bəzədilir, üzərinə şokolad pudrası səpilir.","Süd, Soya.",3,5,40,231,https://mcdonalds.az/images/7536d808c3c7146ba9909f6f5260828b.jpg
+172,"Ays qəhvə
+                                                                (0.3L)","McCafé® Ays qəhvə 100% Arabika dənəcikləri, çalınmış qaymaqdan hazırlanmış təravətləndirici və sərinləşdirici qəhvədir. Sirop seçimi: karamelli, fındıqlı, fransız vanili, şəkərsiz fransız vanili.",Süd.,3,3,21,130,https://mcdonalds.az/images/88ec6d086f5a98b8ca3570998b93509e.jpg
+173,"Çaydan (qara)
+                                                                (0.4L)",,,,,,,https://mcdonalds.az/images/dd5639606c2bc2aba51fa1d1a9159a83.jpg
+174,"Çaydan (yaşıl)
+                                                                (0.4L)",,,,,,,https://mcdonalds.az/images/fb7fcba40c16b11b920ba841b2b18762.jpg
+175,"Çaydan (meyvəli)
+                                                                (0.4L)",,,,,,,https://mcdonalds.az/images/f2124cae868e98ab6e4d6c28e7e3b6f4.jpg
+176,Şokoladlı krem ilə donat,Şokoladlı içliklə zərif donat.,"Süd, Qlüten.",7,30,46,490,https://mcdonalds.az/images/3ad66ad687f5e415e18b9df7e74f462b.jpg
+177,Çiyələkli çizkeyk,"Şəkər xəmiri üzərində yumşaq qaymaqlı pendir, çiyələkli içlik ilə.","Süd, Soya, Qlüten, Yumurta.",3,12,27,241,https://mcdonalds.az/images/2602fdd1650f966d7478b9177d085485.jpg
+178,Amerika sayağı çizkeyk,Şəkər xəmiri üzərində yumşaq qaymaqlı pendir.,"Araxis, Fındıq, Süd, Soya, Yumurta.",8,26,29,394,https://mcdonalds.az/images/3aeff50dc69aa9a18534e8ebb432d118.jpg
+179,Makaroni,Ətirləndirilmiş Qanaş kremi ilə doldurulmuş rəngarəng Makaronilərin xırçıldayan və çeynənən qarışığı.,,,,,,https://mcdonalds.az/images/7def0cd40a309014b054d52e6372b10a.jpg
+180,Alma piroqu,"Şəkər xəmiri əsaslı un məmulatı, almalı içlik ilə.","Süd, Soya, Qlüten, Yumurta.",4,14,45,329,https://mcdonalds.az/images/c720fdce8cc175a0113de2861f7b7b7b.jpg
+181,Şokoladlı peçenye,"İncə şəkərli peçenye, qara, tünd və qarışıq şokolad dənəcikləri ilə.","Süd, Qlüten,Yumurta.",5,18,58,438,https://mcdonalds.az/images/fe20c51767f098518b172c4bccc4f527.jpg
+182,Kruassan,Lay-lay xəmirdən yüngül un məmulatı.,"Süd, Qlüten, Yumurta.",8,17,36,290,https://mcdonalds.az/images/d92ed889bfba454db627a340e6c52d96.jpg
+183,Pendirli kruassan,"Lay-lay xəmirdən, pendirli yüngül un məmulatı.","Süd, Qlüten, Yumurta.",9,16,31,301,https://mcdonalds.az/images/5342e3a5d74503ec7b47d03ff5387575.jpg
+184,Vanil krem ilə donat,Vanil içliklə zərif donat.,"Süd, Qlüten.",5,25,40,412,https://mcdonalds.az/images/2d3b8d7184b8387a4e92b77644e27fae.jpg
+185,Qrand Çiz (ət),"Qrand Çiz burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, Emmental & Cheddar pendirləri, aysberq salatı, qızardılmış soğan və pendir sous.",,,,,,https://mcdonalds.az/images/88f2dbc6c139a1adcb631e6659b81891.png
+186,Qrand Çiz (toyuq),"Qrand Çiz burgerin tərkibi: küncütlü brioş bulka, toyuq filesi, Emmental & Cheddar pendirləri, aysberq salatı, qızardılmış soğan və pendir sous.",,,,,,https://mcdonalds.az/images/7542c3e522cf064f8fe6a3645530c374.png
+187,Çiz Delüks mini,"Çiz Delüks mini burgerin tərkibi: karamelləşdirilmiş bulka, 100% mal ətindən döyülmüş bifşteks, pendir kotletı, soğan, duzlu xiyar dilimləri və xüsüsi sous.Çiz Delüks mini burgerin tərkibi: karamelləşdirilmiş bulka, 100% mal ətindən döyülmüş bifşteks, pendir kotletı, soğan, duzlu xiyar dilimləri və xüsüsi sous.",,,,,,https://mcdonalds.az/images/677ced053957252376ce037a7ba88306.png
+188,Bif Freş,"Karamelləşdirilmiş küncütlü bulkanın arasında 100% mal ətindən döyülmüş bifşteks, 1 ədəd Çedder pendirinin dilimi, xüsusi sousu, təzə soğan, təzə Aysberq salatı, xıyar və pomidor dilimləri.","Xardal, Süd, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",,,,,https://mcdonalds.az/images/36e04d7fca426a5e7a4ad922a0041f8e.png
+189,Çiken Freş,"Karamelləşdirilmiş bulkanın arasında suxarıya batırılmış, qızardılmış toyuq kotleti, təzə Aysberq salatı, xüsusi sousu, pomidor dilimi və xıyar.","Xardal, Süd, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",,,,,https://mcdonalds.az/images/afa4b44cdad58e8e48e825e682dd5bae.png
+190,Fiş Freş,"Yumşaq bulkanın arasında qızardılmış balıq filesi, təzə Aysberq salatı, xüsusi sousu və pomidor dilimi.","Xardal, Süd, Soya, Yumurta, Qlüten, Balıq.",,,,,https://mcdonalds.az/images/50ef4c34b8e6389e1055bdcf9c74a823.png
+191,"Fiş Bayts
+                                                                (10 əd.)",Qızardılmış xırçıldayan balıq filesinin dilimləri (xordalılar sinfi).,,,,,,https://mcdonalds.az/images/7ae62dd8d9247b92bf6dd0bca0dae6bc.png
+192,Habanero bif,"Habanero burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, təzə pomidor dilimi və habanero sous.",,,,,,https://mcdonalds.az/images/2ecc4f4df6507ef71ee326d0f440333e.png
+193,Habanero çiken,"Habanero burgerin tərkibi: küncütlü brioş bulka, toyuq filesi, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, təzə pomidor dilimi və habanero sous.",,,,,,https://mcdonalds.az/images/e00c85df4205150c1c291c06365edbd3.png
+194,Dabl Çikenburger,Təzə kahı və xüsusi McChicken™ sousu ilə dadlandırılmış və karamelli bulkada verilən suxarıya batırılmış qızardılmış toyuq kotleti.,"Xardal, Yumurta, Qlüten.",24,32,82,720,https://mcdonalds.az/images/9aa2f9fa20aae642106f6803d08ca386.png
+195,Dabl Big Tasty™ (Ət),"Həcmli küncütlü bulka arasında 2 ədəd böyük, 100% mal ətindən döyülmüş bifşteks olan burger. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",76,30,50,1114,https://mcdonalds.az/images/7a4aa9c08a443a3940070f6f49b3e0af.png
+196,Dabl Big Tasty™ (Toyuq),"Həcmli küncütlü bulka arasında toyuqdan olan 2 ədəd kotlet. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",76,30,50,1114,https://mcdonalds.az/images/1b69a49ee3034c2bf2d69893c0fac1d7.png
+197,Şokoladlı Frappe,Südlü və xoş şokolad dadlı soyuq içki.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",13,4,67,355,https://mcdonalds.az/images/544a20f6bc194d2b1999006b050888d9.png
+198,Karamelli Frappe,Karamel və qəhvə dadına malik dadlı soyuq içki. Üstü çalınmış qaymaq və karamelli sous ilə bəzədilib.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",8,20,70,490,https://mcdonalds.az/images/761b6c992e3223ce6071b6b199f21f14.png
+199,Çiyələkli Smuzi,McCafé® resepti ilə hazırlanmış çiyələkli smuzi süd və buz ilə qarışdırılmış çiyələk püresi və qaymaqlı yoğurtun ləzzətli birləşməsidir.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",2,1,28,131,https://mcdonalds.az/images/4052c0f567eece8b6e96c1435fc5bb91.png
+200,Smuzi Marakuya,McCafé® resepti ilə hazırlanmış marakuyalı smuzi süd və buz ilə qarışdırılmış marakuya püresi və qaymaqlı yoğurtun ləzzətli birləşməsidir.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",5,0,82,350,https://mcdonalds.az/images/f560ee954d6d6cf9699b1557a30e7d26.png
+201,Smuzi Qaragilə,McCafé® resepti ilə hazırlanmış qaragiləli smuzi süd və buz ilə qarışdırılmış qaragilə püresi və qaymaqlı yoğurtun ləzzətli birləşməsidir.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",4,3,25,146,https://mcdonalds.az/images/cf49f8e8cd4f429217c6a27707abfec5.png
+202,Limonad Qreypfrut,Qreypfrut dadlı sərinləşdirici qazlı içki.,,,,,,https://mcdonalds.az/images/8eacd087f249be56fa8a766934bf3977.png
+203,Limonad Çiyələk,Çiyələk dadlı sərinləşdirici qazlı içki.,,,,,,https://mcdonalds.az/images/fb4564392f6684808edbe80fb1a45bd8.png
+204,"Südlü Kokteyl (Banan)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,5,3,33,188,https://mcdonalds.az/images/57291369a6f44b1ef2f9c64ab1de734a.png
+205,"Südlü Kokteyl (Banan)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,5,3,33,188,https://mcdonalds.az/images/6057a1402a34160940cc50eb6345f5f6.png
+206,"Südlü Kokteyl (Banan)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,5,3,33,188,https://mcdonalds.az/images/5e9ec393fbcd906bd9efba7668e022d5.png
+207,Çiken Bayts (10 əd.),"Fritürda, unda qızardılmış xırçıldayan acılı toyuq filesinin dilimləri.","Süd, Qlüten, Kərəviz, Yumurta.",17,18,12,279,https://mcdonalds.az/images/28969e815c2869a1b1b5601c3d63a656.png
+208,Şaurma Roll,"Lavaşda xüsüsi sousun əlavəsi ilə suxarıya batırılmış, qızardılmış toyuq filesi, kartof və turşu xiyar.","Sülfidlər, Xardal, Yumurta, Kərəvizç Qlüten.",13,16,23,390,https://mcdonalds.az/images/c20f2510cbddb63206c7d6c4ad263159.png
+209,McFlurry™ (Albalı Kit-Kat™),"Kit-Kat™ və Albalı əlavəli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",6,8,50,300,https://mcdonalds.az/images/45612a56e57d70a1d4f7f0c6bf6ff36c.png
+210,MakSandey Babl Qam,"Təbii, üzlü süddən hazırlanmış Babl Qam dolğulu dondurma.","Süd, Soya, Qlüten.",5,4,48,250,https://mcdonalds.az/images/b1783f42bfc769ec787990b915e81ac4.png
+211,Profitrol (ağ kremli),Ağ şokolad profiterolları şokolad ətirli krem ​​və şokolad lopaları ilə örtülmüşdür.,Fındıq.,2,20,24,294,https://mcdonalds.az/images/4d56f169904b504643b54d360a63cbf6.png
+212,Profitrol (şokoladlı),Şokolad profiterolları ətirli krem ilə.,"Fındıq, Soya.",3,20,25,295,https://mcdonalds.az/images/07aaabdddd8eaafb06726785358f05d6.png
+213,McPops™  (şokoladlı),Şokolad içlikli yüngül ponçiklər.,"Süd, Soya, Yumurta, Qlüten, Fındıq, Küncüt..",6,33,46,509,https://mcdonalds.az/images/a67812054789c6d223c46796f8f28f8f.png
+214,McPops™  (südlü karamelli),Südlü karamelli içlikli yüngül ponçiklər.,"Süd, Soya, Yumurta, Qlüten, Fındıq.",6,34,48,529,https://mcdonalds.az/images/9705a6f508f0924323834a031b865b5d.png
+215,McPops™  (giləmeyvə),Giləmeyvə içlikli yüngül ponçiklər.,"Süd, Soya, Yumurta, Qlüten, Fındıq, Küncüt.",5,24,45,417,https://mcdonalds.az/images/6b41bbf42bee7e6a372127ca114995a9.png
+216,McCrispy™,"Küncütlü bulkanın arasında 100% toyuq filesindən xırtıldayan kotlet, təzə Aysberq salatı və ranç sousu.","Süd, Yumurta, Qlüten, Küncüt tumları.",26,18,53,484,https://mcdonalds.az/images/eb02fdcd1e6fc5a0bdfae04a73cfaadc.png
+217,"Toyuq qanadları
+                                                                (8 əd.)",Ədviyyəli və qədərində xırçıltılı toyuq qanadları.,Qlüten.,17,14,19,268,https://mcdonalds.az/images/c05b8f82850e5143eb34b76838216642.png
+218,Maestro burger,"Küncütlü bulka arasında 100% mal ətindən bifşteks, Emmental pendiri, təzə pomidor, duzlu xiyar, aysberq salatı, qızarılmış göbələk, qızarılmış soğan və “deluxe” sousu ona xüsusi dad verir.","Xardal ,Yumurta, Süd, Küncüt , Glüten.",32,33,49,623,https://mcdonalds.az/images/7c406dd0907a3d93e42598dd373832e7.png
+219,"Çiken strips
+                                                                (3 əd.)","Xüsusi tamlı, acılı və xırçaldayan çiken stripslər.",Qlüten.,17,12,23,270,https://mcdonalds.az/images/ee4f7322e8d05e1f205d3793f8bd1fe7.png
+220,"Çiken strips
+                                                                (5 əd.)","Xüsusi tamlı, acılı və xırçaldayan çiken stripslər.",Qlüten.,17,12,23,270,https://mcdonalds.az/images/30404c00c824b488c921843df315de41.png
+221,Maffin,"Qızarmış  toyuq yumurtası, bir dilim pendir və isti-isti qızarmış Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",15,14,27,295,https://mcdonalds.az/images/c1213b66f97923ebc0cb629a56207a51.png
+222,Maffin ət ilə,"100% mal ətindən döyülmüş bifşteks, qızarmış  toyuq yumurtası, bir dilim pendir və isti-isti qızarmış  Muffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",25,23,30,423,https://mcdonalds.az/images/2b95389d6a0e4a2916b74fd3a14b132c.png
+223,Dabl  Maffin ət ilə,"iki ədəd 100% mal ətindən döyülmüş bifşteks, qızarmış  toyuq yumurtası, bir dilim pendir və isti-isti qızarmış  Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",35,32,33,551,https://mcdonalds.az/images/8bad08c9067be348de3b21df430091d6.png
+224,Omlet  Maffin,"Omlet, bir dilim pendir və isti-isti qızarmış Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",14,11,26,189,https://mcdonalds.az/images/ea92fecc92b63eeeb7c3ca026b48c55f.png
+225,Omlet Maffin ət ilə,"100% təmiz mal ətindən kotlet, omlet, bir dilim pendir və isti-isti qızarmış  Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",22,24,29,405,https://mcdonalds.az/images/92549d1ce24179b2bce678e4c97e8a0b.png
+226,Dabl Omlet  Maffin ət ilə,"100% mal ətindən döyülmüş bifşteks, omlet, bir dilim pendir və isti-isti qızarmış  Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",34,31,27,549,https://mcdonalds.az/images/b3d3467789c012e3ed525c1590871860.png
+227,Omlet,"Omlet, yağ, isti-isti qızarmış  Maffin bulkası – boşqabda.","Süd,  Yumurta, Qlüten, Küncüt tumları.",,,,,https://mcdonalds.az/images/9c24934305c4cf72a9918af4ded1001e.png
+228,Böyük Səhər yeməyi,"100% mal ətindən döyülmüş bifşteks, omlet, haşbraun, yağ və ya cem, isti-isti qızarmış  Maffin bulkası – boşqabda.","Süd,  Yumurta, Qlüten, Küncüt tumları.",,,,,https://mcdonalds.az/images/52974b1a968dcf8d3d83cdbdb7799c38.png
+229,Haşbraun,"Xırdalanmış haşbraun kartof kotleti – içi yumşaq, üstü isə xırtıltılı və qızarmış.","Süd, Qlüten.",1,7,24,172,https://mcdonalds.az/images/6ba8cb22e836adf0035f2b41cd23fb42.png
+230,Yağ (82.5%),Allergenlər: Süd.,Süd.,,,,,https://mcdonalds.az/images/c217126891ba502a0575b0bbbb135cbf.png
+231,Bal,Maffin,,,,,,https://mcdonalds.az/images/3c130f83a5a3928b2eb279cbf6e1a03a.png
+232,Cem,Maffin,,,,,,https://mcdonalds.az/images/25a1f6a0b53957a616914fcd6baac775.png
+233,Çiken boks,"3 Toyuq qanadları, 3 Çiken strips, 10 Çiken Bayts , 6 Çiken McNuggets & 1 Frenç Frayz (Ekstra).","Kərəviz, Qlüten,",68,58,73,1085,https://mcdonalds.az/images/3b8b65b35ce9caa68e583b5f122bbe8a.png
+234,Habanero sous  (40ml),"İştahaçan, ədviyyatlı sous.","Xardal, Yumurta.",0,31,8,313,https://mcdonalds.az/images/ed98e0e99b4d8131c728d92df3405d43.png
+235,Dor Blu sous (40ml),Dadlı və ətirli sous.,"Süd, Yumurta.",1,26,6,267,https://mcdonalds.az/images/55051be357f3d4b6ce56f5e98fc0d821.png
+236,Şampinyon delüks (ət),"Karamelləşdirilmiş bulkanın arasında 100% mal ətindən döyülmüş bifşteks, qızarılmış göbələk,  Emmental pendiri, “deluxe” sousu və duzlu xiyar dilimləri.","Xardal ,Yumurta, Süd, Glüten.",32,33,49,623,https://mcdonalds.az/images/e8edf5122942353de6c6bd18da56718a.png
+237,Şampinyon delüks (toyuq),"Karamelləşdirilmiş bulkanın arasında qızardılmış toyuq kotleti, qızarılmış göbələk,  Emmental pendiri, “deluxe” sousu və duzlu xiyar dilimləri.","Xardal ,Yumurta, Süd, Kərəviz, Glüten.",33,32,64,679,https://mcdonalds.az/images/dad2e355b385d82edcf1d42d53982545.png
+238,Mini Tasty,,"Süd, Yumurta, Qlüten.",31,14,36,473,https://mcdonalds.az/images/296c929cceb4e3f5843d3654aac73a93.png
+239,Dabl Mini Tasty,"Yumşaq bulka, 2 ədəd 100% mal ətindən bifşteks, 2 zərif emmental pendiri, təzə soğan və özəl tamlı ""Qril"" sousu.","Süd, Yumurta, Qlüten.",62,28,72,946,https://mcdonalds.az/images/7cb31690ca332ca5757ddab43d3779f8.png
+240,Acılı sous,Dadlı və ətirli sous,,0,0,11,47,https://mcdonalds.az/images/102c9b4628bc78df00ea1f0792faac4d.png
+241,Maestro Qrill Burger,"Qızardılmış Brioche bulka, 100% mal ətindən bifşteks, Emmental pendiri, turşu xiyarlar, xırtıldayan soğan, təzə kolslou qarışığı, göbələk sousu və hisə verilmiş qril sous.","Süd, Yumurta, Qlüten, Küncüt tumları, Xardal, Kərəviz",49,17,43,526,https://mcdonalds.az/images/70397d03454c3cd019395566ca10662b.png
+242,McRoyal Barbekyu,"Karamelləşdirilmiş küncütlü bulkanın arasında 100% mal ətindən döyülmüş bifşteks, 2 ədəd Çedder pendirinin dilimi, barbekyu sousu, xırtıldayan qızardılmış soğan və duzlu xiyar dilimləri.","Küncüt, Qlüten, Kükürd Dioksidi və Sulfitlər, Süd,Kərəviz, Xardal",,,,,https://mcdonalds.az/images/10df32e6094fe80f0f9580e3f8257b1b.jpg
+243,Dabl McRoyal Barkekyu,"Karamelləşdirilmiş bulkanın arasında iki ədəd 100% mal ətindən döyülmüş bifşteks, 2 Çedder pendirinin dilimi, barbekyu sousu, xırtıldayan qızardılmış soğan və duzlu xiyar dilimləri.","Küncüt, Qlüten, Kükürd Dioksidi və Sulfitlər, Süd, Kərəviz, Xardal",,,,,https://mcdonalds.az/images/f361ac6befdce00aca980dd9f0f3d687.jpg

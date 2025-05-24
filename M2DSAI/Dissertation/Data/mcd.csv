@@ -1,0 +1,318 @@
+ID,Name,Description,Allergens,Protein (g),Fat (g),Carbs (g),Energy (kcal)
+10,Hamburger,"Karamelləşdirilmiş bulkanın arasında 100% mal ətindən döyülmüş bifşteks, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Qlüten.",13.2,9.3,27.7,252
+11,Dabl Hamburger,"Karamelləşdirilmiş bulkanın arasında iki 100% mal ətindən döyülmüş bifşteks, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Qlüten.",20,16,31,350
+12,Tripl Hamburger,"Yumşaq bulkasının arasında 3 ədəd 100% mal ətindən iştahaçan bifşteks, ketçup, xardal, duzlu xıyar və soğan.","Xardal, Qlüten.",27,20,31,420
+13,Çizburger,"Karamelləşdirilmiş bulkanın arasında 100% mal ətindən döyülmüş bifşteks, Çedder pendirinin dilimi, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Yumurta, Qlüten.",16.1,13.1,28.5,300
+14,Dabl Çizburger,"Karamelləşdirilmiş bulkanın arasında iki ədəd 100% mal ətindən döyülmüş bifşteks, 2 Çedder pendirinin dilimi, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Yumurta, Qlüten.",27,22,34,443
+15,Tripl Çizburger,"Yumşaq bulkasının arasında 3 ədəd 100% mal ətindən iştahaçan bifşteks, 3 ədəd əridilmiş çeddar pendiri, ketçup, xardal, duzlu xıyar və soğan.","Xardal, Süd, Soya, Yumurta, Qlüten.",37,32,34,578
+16,Çikenburger,Təzə kahı və xüsusi McChicken® sousu ilə dadlandırılmış və karamelli bulkada verilən suxarıya batırılmış qızardılmış toyuq kotleti.,"Xardal, Yumurta, Qlüten.",12,15,31,339
+17,McChicken™,"Karamelləşdirilmiş bulkanın arasında suxarıya batırılmış, qızardılmış toyuq kotleti, təzə Aysberq salatı və xüsusi McChicken™ sousu.","Xardal, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",16,27,45,480
+18,Dabl McChicken™,"Karamelləşdirilmiş bulkanın arasında suxarıya batırılmış, qızardılmış iki toyuq kotleti, təzə Aysberq salatı və xüsusi McChicken™ sousu.","Xardal, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",32.5,40.3,54,712
+19,Filet-O-Fish™,"İsti, yumşaq bulkanın arasında yaxşıca qızardılmış balıq filesi (xordalılar sinfi), yarım dilim Çedder pendiri və Tar-Tar sousu.","Xardal, Süd, Soya, Yumurta, Balıq, Qlüten.",11,15,26,282
+20,Dabl Filet-O-Fish™,"İsti yumşaq bulkanın arasında yaxşıca qızardılmış iki tikə balıq filesi (treskakimilər sinfi), 2 kiçik dilim Çedder pendiri və Tar-Tar sousu.","Xardal, Süd, Soya, Yumurta, Balıq, Qlüten.",26,21,45,478
+21,Big Mac™,"Küncütlü bulkanın arasında iki ədəd 100% mal ətindən döyülmüş bifşteks, soğan, iki dilim duzlu xiyar, Çedder pendirinin 1 dilimi, Aysberq salatı və xüsusi Big Mac™ sousu.","Xardal, Süd, Soya, Yumurta, Qlüten, Küncüt tumları.",28,28,48,558
+22,Dabl Big Mac™,"Küncütlü bulkanın arasında dörd ədəd 100% mal ətindən döyülmüş bifşteks, soğan, iki dilim duzlu xiyar, Çedder pendirinin 1 dilimi, Aysberq salatı və xüsusi Big Mac™ sousu.","Xardal, Süd, Soya, Yumurta, Qlüten, Küncüt tumları.",38,44,48,740
+23,Royal Çizburger,"Karamelləşdirilmiş küncütlü bulkanın arasında 100% mal ətindən döyülmüş bifşteks, 2 ədəd Çedder pendirinin dilimi, xardal, ketçup, təzə soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Qlüten, Küncüt tumları.",32,25,38,507
+24,Dabl Royal Çizburger,"Karamelləşdirilmiş bulkanın arasında iki ədəd 100% mal ətindən döyülmüş bifşteks, 2 Çedder pendirinin dilimi, xardal, ketçup, soğan və duzlu xiyar dilimləri.","Xardal, Süd, Soya, Qlüten, Küncüt tumları.",41.9,40.8,25.5,639
+25,Big Tasty™ (Ət),"Həcmli küncütlü bulka arasında böyük, 100% mal ətindən döyülmüş bifşteks olan burger. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",44,48,50,812
+26,Big Tasty™ (Toyuq),"Həcmli küncütlü bulka arasında toyuqdan olan kotlet. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",44,48,50,812
+27,Sezar Roll,"Lavaşda Sezar sousun əlavəsi ilə suxarıya batırılmış, qızardılmış toyuq kotleti, Aysberq salatı, təzə pomidor dilimi və ovulmuş bərk pendir.","Xardal, Süd, Yumurta, Qlüten.",20,24,42,472
+28,"Qəhvə
+                                                                (Kiçik)","“Paulig” şirkətinin istehsalı olan seçilmiş, təzə üyüdülmüş və qovrulmuş qara qəhvə.",,0,0,0,29
+29,"Çiken McNuggets
+                                                                (4 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179
+30,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+31,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+32,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+33,"Krevetlər
+                                                                (4 əd.)","Fritürda, unda qızardılmış xırçıldayan krevet. 1000 ada sousu ilə təqdim olunur.","Soya, Balıq, Qlüten.",10,9,15,180
+34,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+35,"Soğan halqaları
+                                                                (5 əd.)",Unda qızardılmış təzə soğan dilimləri.,"Süd, Qlüten.",4,11,28,230
+36,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+37,Happy Meal™ (Hamburger ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi:  Hamburger; İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Xardal, Qlüten.",21,10,53,390
+38,Happy Meal™ (Çizburger ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi: Çizburger; İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Xardal, Süd, Soya, Yumurta, Qlüten.",16,16,74,501
+39,Happy Meal™ (Çikenburger ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi: Çikenburger; İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Xardal, Yumurta, Qlüten.",18,20,116,730
+40,Happy Meal™ (Çiken McNuggets ilə),"""Happy Meal"" əsas yemək, içki, əlavə yemək və 1 oyuncaqdan ibarətdir. Əsas yemək seçimi: Çiken McNuggets (4 ədəd); İçki seçimi: Ice Tea, meyvə şirəsi, içki 0,25l; Əlavə yemək seçimi: kiçik kartof fri və ya alma.","Kərəviz, Qlüten.",21,12,35,330
+41,"Frenç Frayz
+                                                                (Kiçik)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231
+42,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+43,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+44,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+45,"Kənd kartofu
+                                                                (Orta)","İştahalı və dadlı, fritürda qızardılmış ədviyyatlı kartof dilimləri.",,3,11,31,243
+46,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+47,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+48,Ketçup,İştahalı tomat sousu.,Kərəviz.,,,,
+49,Mayonez,Dadlı və ətirli sous.,"Xardal, Yumurta.",,,,
+50,Barbekyu sousu,"İştahaçan, ədviyyatlı sous.","Xardal, Kərəviz, Yumurta",0,0,11,47
+51,Turşa-Şirin sous,"Şirin dadlı, ətirli sous.","Süd, Kərəviz, Qlüten.",0,0,12,49
+52,Pendirli sous,Pendirdən hazırlanmış nəfis dadlı sous.,"Süd, Yumurta, Sulfar dioksid.",,,,
+53,Xardal,Acı və yumşaq dadlı əsl xardal sousu.,"Xardal, Yumurta.",0,3,7,62
+54,1000 Ada sousu,Zəngin dadlı iştahaçan sous.,"Süd, Balıq, Qlüten.",,,,
+55,"Frenç Frayz
+                                                                (Orta)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231
+56,"Frenç Frayz
+                                                                (Böyük)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231
+57,"Frenç Frayz
+                                                                (Ekstra)",Fritürda qızılı rəngədək qızardılmış və bir balaca duzlanmış xırçıldayan kartof çubuqları.,,2.8,11,29,231
+58,"Coca-Cola™
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,
+59,"Coca-Cola™
+                                                                (Orta)",Sərinləşdirici içki.,,,,,
+60,"Coca-Cola™
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,
+61,"Coca-Cola™
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,
+62,"Fanta™
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,
+63,"Fanta™
+                                                                (Orta)",Sərinləşdirici içki.,,,,,
+64,"Fanta™
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,
+65,"Fanta™
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,
+66,"Sprite™
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,
+67,"Sprite™
+                                                                (Orta)",Sərinləşdirici içki.,,,,,
+68,"Sprite™
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,
+69,"Sprite™
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,
+70,"Ice Tea
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,
+71,"Ice Tea
+                                                                (Orta)",Sərinləşdirici içki.,,,,,
+72,"Ice Tea
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,
+73,"Ice Tea
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,
+74,"Qazlı su
+                                                                (Kiçik)",Sərinləşdirici içki.,,,,,
+75,"Qazlı su
+                                                                (Orta)",Sərinləşdirici içki.,,,,,
+76,"Qazlı su
+                                                                (Böyük)",Sərinləşdirici içki.,,,,,
+77,"Qazlı su
+                                                                (Ekstra)",Sərinləşdirici içki.,,,,,
+78,"Limonad Marakuya
+                                                                (0.4L)",Marakuya dadlı sərinləşdirici qazlı içki.,,,,,
+79,"Limonad Babl Qam
+                                                                (0.4L)",Babl Qum saqqız dadlı sərinləşdirici qazlı içki.,,,,,
+80,"Portağal şirəsi
+                                                                (0.25L)",Təbii konsentratdan hazırlanmış təzə portağal şirəsi.,,,,,
+81,"Portağal şirəsi
+                                                                (0.4L)",Təbii konsentratdan hazırlanmış təzə portağal şirəsi.,,,,,
+82,Ayran,"Yerli istehsal olan, təzə süddən hazırlanmış, həzmi yaxşılaşdıran və iştahanı artıran dadlı ayran.",Süd.,2.2,16,3.4,37
+83,Cappy Şirəsi,Təbii meyvə şirəsi.,,,,,
+84,Bonaqua,Qazsız su.,,,,,
+85,"Qəhvə
+                                                                (Böyük)","“Paulig” şirkətinin istehsalı olan seçilmiş, təzə üyüdülmüş və qovrulmuş qara qəhvə.",,0,0,0,29
+86,Dabl Espresso,Heç bir əlavə olmadan üyüdülmüş qəhvəli filtrdan təzyiq altında qaynar suyun keçməsi nəticəsində alınan qəhvə içkisi. McDonald’s-da yalnız  “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.,,,,,
+87,"Kapuçino
+                                                                (Kiçik)","Təzə, üzlü və köpüklü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,5,78
+88,"Kapuçino
+                                                                (Böyük)","Təzə, üzlü və köpüklü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,5,78
+89,"Latte
+                                                                (Kiçik)","Təzə, üzlü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,6,78
+90,"Latte
+                                                                (Böyük)","Təzə, üzlü süd ilə espressonun dadlı qarışığı. ""McDonald’s""da yalnız “Paulig” şirkətinin seçilmiş və təzə üyüdülmüş qəhvəsindən istifadə olunur.",Süd.,3,4,6,78
+91,"İsti şokolad
+                                                                (Kiçik)",İsti Şokolad – südün əlavəsi ilə təbii kakao əsasında hazırlanmış dadlı içkidir.,"Süd, Soya.",8,18,31,319
+92,"İsti şokolad
+                                                                (Böyük)",İsti Şokolad – südün əlavəsi ilə təbii kakao əsasında hazırlanmış dadlı içkidir.,"Süd, Soya.",8,18,31,319
+93,"Südlü Kokteyl (Şokolad)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.","Süd, Soya, Sulfar dioksid və sulfitlər.",6,5,43,247
+94,"Südlü Kokteyl (Şokolad)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.","Süd, Soya, Sulfar dioksid və sulfitlər.",6,5,43,247
+95,"Südlü Kokteyl (Şokolad)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.","Süd, Soya, Sulfar dioksid və sulfitlər.",6,5,43,247
+96,"Südlü Kokteyl (Vanil)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244
+97,"Südlü Kokteyl (Vanil)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244
+98,"Südlü Kokteyl (Vanil)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244
+99,"Südlü Kokteyl (Çiyələk)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244
+100,"Südlü Kokteyl (Çiyələk)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244
+101,"Südlü Kokteyl (Çiyələk)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,6,4,45,244
+102,McFlurry™ (Kit-Kat™),"Şokolad (Kit-Kat™ ilə) əlavəli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",7,11,71,406
+103,McFlurry™ (Çiyələk Kit-Kat™),"Kit-Kat™ və Çiyələk əlavəli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",7,11,71,406
+104,Meyvəli Piroq (Albalı),"Mövsümə görə dəyişən giləmeyvə/meyvə içlikli, fritürda qızardılmış isti xırçıldayan piroqlar.",Qlüten.,3,7,25,180
+105,Meyvəli Piroq (Çiyələk və Krem Çiz),"Çiyələk və Krem Çiz içlikli, xırçıldayan, dadlı və isti piroqlar.",Qlüten.,3,7,25,180
+106,Maffin (Şokolad),Şokolad cemi ilə incə ətirli keks.,"Süd, Soya, Yumurta, Qlüten.",5,12,55,360
+107,Maffin (Qara qarağat),Qara qarağat cemli incə ətirli keks.,"Süd, Soya, Yumurta, Qlüten.",5,11,45,360
+108,Maffin (Banan),Banan cemli incə ətirli keks.,"Fındıq, Araxis, Süd, Soya, Yumurta, Qlüten.",5,16,49,360
+109,Şokoladlı Tort,"Avstriya tortu ""Zaxer""in resepti əsasında hazırlanmış şokoladlı tort.","Araxis, Süd, Soya, Qlüten, Küncüt tumları.",3,14,52,351
+110,MakSandey Dondurması (Şokolad),"Təbii, üzlü süddən hazırlanmış şokolad dolğulu dondurma.",Süd.,6,9,51,310
+111,MakSandey Dondurması (Karamel),"Təbii, üzlü süddən hazırlanmış karamel dolğulu dondurma.","Süd, Sulfar dioksid.",6,9,51,310
+112,MakSandey Dondurması (Strawberry),"Təbii, üzlü süddən hazırlanmış çiyələk dolğulu dondurma.",Süd.,5,4,48,258
+113,"Konus Dondurması
+                                                                (Kiçik)","Vafli konusun içində təbii, üzlü süddən hazırlanmış qaymaqlı dondurma.","Süd, Qlüten.",3,3,23,140
+114,"Konus Dondurması
+                                                                (Böyük)","Vafli konusun içində təbii, üzlü süddən hazırlanmış qaymaqlı dondurma.","Süd, Qlüten.",3,3,23,140
+115,McFlurry™ (Karamel Kit-Kat™),"Kit-Kat™- karamelli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",7,11,67,405
+116,"Çiken McNuggets
+                                                                (6 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179
+117,"Çiken McNuggets
+                                                                (9 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179
+118,"Çiken McNuggets
+                                                                (20 əd.)","Fritürda, unda qızardılmış xırçıldayan toyuq filesinin dilimləri.","Kərəviz, Qlüten.",11,9,12,179
+119,"Krevetlər
+                                                                (6 əd.)","Fritürda, unda qızardılmış xırçıldayan krevet. 1000 ada sousu ilə təqdim olunur.","Soya, Balıq, Qlüten.",10,9,15,180
+120,"Soğan halqaları
+                                                                (10 əd.)",Unda qızardılmış təzə soğan dilimləri.,"Süd, Qlüten.",4,11,28,230
+121,"Kənd kartofu
+                                                                (Böyük)","İştahalı və dadlı, fritürda qızardılmış ədviyyatlı kartof dilimləri.",,3,11,31,243
+122,"Kənd kartofu
+                                                                (Ekstra)","İştahalı və dadlı, fritürda qızardılmış ədviyyatlı kartof dilimləri.",,3,11,31,243
+123,"Çay
+                                                                (0.3L)",Dabl Espresso,,,,,
+124,Sarımsaqlı sous,Ədviyyatlı sarımsağlı sous.,"Xardal, Yumurta.",,,,
+125,"Çay
+                                                                (0.4L)",Dabl Espresso,,,,,
+126,"Portağal şirəsi
+                                                                (0.5L)",Təbii konsentratdan hazırlanmış təzə portağal şirəsi.,,,,,
+127,"Südlü Kokteyl (Qəhvə)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",,,,,
+128,"Südlü Kokteyl (Qəhvə)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",,,,,
+129,"Südlü Kokteyl (Qəhvə)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",,,,,
+130,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+131,"Toyuq qanadları
+                                                                (3 əd.)",Ədviyyəli və qədərində xırçıltılı toyuq qanadları.,Qlüten.,17,14,19,268
+132,"Toyuq qanadları
+                                                                (5 əd.)",Ədviyyəli və qədərində xırçıltılı toyuq qanadları.,Qlüten.,17,14,19,268
+133,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+137,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+138,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+140,Maffin (Şokolad və plombir),Şokolad və plombir ilə incə ətirli keks.Şokolad və plombir ilə incə ətirli keks.,"Süd, Küncüt, Laktoza, Qlüten.",5,16,49,360
+141,Çurasko Burger (ət),"Çurasko burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, duzlu xiyar və təzə pomidor dilimləri, reyhan və çurasko sousları.","Süd, Yumurta, Qlüten, Küncüt tumları.",54,53,91,542
+142,Çurasko Burger (toyuq),"Çurasko burgerin tərkibi: küncütlü brioş bulka, toyuq ətindən kotlet, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, duzlu xiyar və təzə pomidor dilimləri, reyhan və çurasko sousları.","Süd, Yumurta, Qlüten, Küncüt tumları.",27,13,60,540
+143,Manqal (Ət),"Yumşaq küncütlü bulkasının arasında 100% mal ətindən iştahaçan bifşteks, dadlı souslar, xırçıldayan salatı, duzlu xıyar, təzə qırmızı soğan və pomidor.","Süd, Yumurta, Qlüten, Xardal, Küncüt tumları.",,,,
+144,Manqal (Toyuq),"Yumşaq küncütlü bulkasının arasında toyuq əti, dadlı sous, xırçıldayan salatı, duzlu xıyar, təzə qırmızı soğan və pomidor.","Süd, Yumurta, Qlüten, Xardal, Küncüt tumları.",,,,
+145,"Spaysi Çizzi
+                                                                (5 əd.)",Çili istiotlu xırçıldayan əridilmiş pendir.,"Süd, Soya, Qlüten, Yumurta.",,,,
+146,"Spaysi Çizzi
+                                                                (10 əd.)",Çili istiotlu xırçıldayan əridilmiş pendir.,"Süd, Soya, Qlüten, Yumurta.",,,,
+147,Çiz Delüks (ət),"Çiz Delüks burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, pendir kotletı, aysberq salatı, qızardılmış soğan və xüsüsi sous.","Süd, Yumurta, Qlüten, Küncüt tumları.",,,,
+148,Çiz Delüks (toyuq),"Çiz Delüks burgerin tərkibi: küncütlü brioş bulka, toyuq filesi, pendir kotlet, aysberq salatı, qızardılmış soğan və xüsüsi sous.","Süd, Yumurta, Qlüten, Küncüt tumları.",,,,
+149,Tərəvəz salatı,"Təzə salat miksi, çeri pomidorları, parmezan pendiri və zeytun.","Süd, Yumurta.",0.8,2,2,31
+150,Unknown,Axtardığınız səhifə tapılmayıb.,,,,,
+151,Krevetli Sezar,"Qızardırılmış krevetlər, təzə qarışıq salat, çeri pomidorları və parmezan pendiri.","Süd, Yumurta, Xərçəng-kimilər.",,,,
+152,Toyuqlu Sezar,"Qızardırılmış toyuq filesi, təzə qarışıq salat, çeri pomidorları və parmezan pendiri.","Süd, Yumurta, Kərəviz.",15,11,17,231
+153,“House” sous,"Allergenlər: Xardal, Süd, Yumurta, Kərəviz.","Xardal, Süd, Yumurta, Kərəviz.",1,11,7,141
+154,Zeytun yağı,Kokteyl Sous,,,,,
+155,Sezar sous,"Allergenlər: Süd, Yumurta.","Süd, Yumurta.",2,28,8,304
+156,McFlurry™ Oreo,"Təbii, üzlü süddən hazırlanmış, Oreo dondurma.","Fındıq, Süd.",,,,
+157,Oreo Şeyk,Təzə süd və oreo dənələri qarışığından hazırlanmış ətirli kokteyl.,"Fındıq, Süd.",,,,
+158,Kokteyl Sous,Zəngin dadlı iştahaçan sous.,"Xardal, Kərəviz, Süd, Yumurta.",3,30,,329
+159,Salsa sous,"İştahaçan, ədviyyatlı sous.","Xardal, Yumurta.",0,0,7,36
+160,"Amerikano
+                                                                (0.3L)","Rainforest Alliance Certified™ ticarət nişanlı espressomuzun üzərinə qaynar su əlavə etməklə hazırlanan sadə, ətirli Amerikano.",,,,,
+161,"Amerikano
+                                                                (0.4L)","Rainforest Alliance Certified™ ticarət nişanlı espressomuzun üzərinə qaynar su əlavə etməklə hazırlanan sadə, ətirli Amerikano.",,,,,
+162,İkili Espresso,"Rainforest Alliance Certified™ ticarət nişanlı espressomuzun üzərinə qaynar su əlavə etməklə hazırlanan sadə, ətirli Espresso.",,0,0,0,2
+163,"Kapuçino
+                                                                (0.2L)","Buğa verilmiş üzlü süd və ekoloji təmiz mənbələrdən toplanmış dənlərdən hazırlanan tünd espresso ilə McCafé® Kapuçino, köpükləndirilmiş süd və seçdiyiniz ətir ilə.",Süd.,3,3,5,70
+164,"Latte
+                                                                (0.3L)","Rainforest Alliance Certified™ ticarət nişanlı espressodan McCafé® Latte, buğa verilmiş süd ilə.",Süd.,3,3,10,123
+165,"Latte
+                                                                (0.4L)","Rainforest Alliance Certified™ ticarət nişanlı espressodan McCafé® Latte, buğa verilmiş süd ilə.",Süd.,3,3,10,123
+166,"Mokko latte
+                                                                (0.4L)","Ekoloji təmiz mənbələrdən – Rainforest Alliance sertifikatlı fermalardan toplanmış espresso dənlərindən hazırlanan McCafé® Mokko latte, buğa verilmiş üzlü süd və şokolad siropu ilə. Çalınmış qaymaqla bəzədilir, üzərinə şokolad pudrası səpilir.",Süd.,11,9,32,256
+167,"Latte makiato
+                                                                (0.3L)","McCafé® Mocha latte resepti Rainforest Alliance Certified™ fermalarından ekoloji təmiz şəkildə toplanmış espresso dənələrindən, üzlü süddən və şokolad siropundan hazırlanır, çalınmış qaymaq və şokolad tozu əlavə edilir.",Süd.,20,7,19,226
+168,"Latte makiato
+                                                                (0.4L)","McCafé® Mocha latte resepti Rainforest Alliance Certified™ fermalarından ekoloji təmiz şəkildə toplanmış espresso dənələrindən, üzlü süddən və şokolad siropundan hazırlanır, çalınmış qaymaq və şokolad tozu əlavə edilir.",Süd.,20,7,19,226
+169,"Raf
+                                                                (0.4L)","Ekoloji təmiz mənbələrdən – Rainforest Alliance sertifikatlı fermalardan toplanmış espresso dənlərindən hazırlanan McCafé® Raf latte, buğa verilmiş üzlü süd, çalınmış qaymaq və vanilli sirop ilə.",Süd.,7,24,19,316
+170,"Flet Uayt
+                                                                (0.2L)",Buğa verilmiş və yüngülcə köpükləndirilmiş orqanik süd ilə qarışdırılmış ikiqat espresso porsiyası ilə McCafé® Flet.,Süd.,5,6,8,113
+171,İsti şokolad,"Buğa verilmiş üzlü süd və şokoladlı sirop ilə isti şokolad. Çalınmış qaymaqla bəzədilir, üzərinə şokolad pudrası səpilir.","Süd, Soya.",3,5,40,231
+172,"Ays qəhvə
+                                                                (0.3L)","McCafé® Ays qəhvə 100% Arabika dənəcikləri, çalınmış qaymaqdan hazırlanmış təravətləndirici və sərinləşdirici qəhvədir. Sirop seçimi: karamelli, fındıqlı, fransız vanili, şəkərsiz fransız vanili.",Süd.,3,3,21,130
+173,"Çaydan (qara)
+                                                                (0.4L)",Karamelli Frappe,,,,,
+174,"Çaydan (yaşıl)
+                                                                (0.4L)",Karamelli Frappe,,,,,
+175,"Çaydan (meyvəli)
+                                                                (0.4L)",Karamelli Frappe,,,,,
+176,Şokoladlı krem ilə donat,Şokoladlı içliklə zərif donat.,"Süd, Qlüten.",7,30,46,490
+177,Çiyələkli çizkeyk,"Şəkər xəmiri üzərində yumşaq qaymaqlı pendir, çiyələkli içlik ilə.","Süd, Soya, Qlüten, Yumurta.",3,12,27,241
+178,Amerika sayağı çizkeyk,Şəkər xəmiri üzərində yumşaq qaymaqlı pendir.,"Araxis, Fındıq, Süd, Soya, Yumurta.",8,26,29,394
+179,Makaroni,Ətirləndirilmiş Qanaş kremi ilə doldurulmuş rəngarəng Makaronilərin xırçıldayan və çeynənən qarışığı.,,,,,
+180,Alma piroqu,"Şəkər xəmiri əsaslı un məmulatı, almalı içlik ilə.","Süd, Soya, Qlüten, Yumurta.",4,14,45,329
+181,Şokoladlı peçenye,"İncə şəkərli peçenye, qara, tünd və qarışıq şokolad dənəcikləri ilə.","Süd, Qlüten,Yumurta.",5,18,58,438
+182,Kruassan,Lay-lay xəmirdən yüngül un məmulatı.,"Süd, Qlüten, Yumurta.",8,17,36,290
+183,Pendirli kruassan,"Lay-lay xəmirdən, pendirli yüngül un məmulatı.","Süd, Qlüten, Yumurta.",9,16,31,301
+184,Vanil krem ilə donat,Vanil içliklə zərif donat.,"Süd, Qlüten.",5,25,40,412
+185,Qrand Çiz (ət),"Qrand Çiz burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, Emmental & Cheddar pendirləri, aysberq salatı, qızardılmış soğan və pendir sous.",,,,,
+186,Qrand Çiz (toyuq),"Qrand Çiz burgerin tərkibi: küncütlü brioş bulka, toyuq filesi, Emmental & Cheddar pendirləri, aysberq salatı, qızardılmış soğan və pendir sous.",,,,,
+187,Çiz Delüks mini,"Çiz Delüks mini burgerin tərkibi: karamelləşdirilmiş bulka, 100% mal ətindən döyülmüş bifşteks, pendir kotletı, soğan, duzlu xiyar dilimləri və xüsüsi sous.Çiz Delüks mini burgerin tərkibi: karamelləşdirilmiş bulka, 100% mal ətindən döyülmüş bifşteks, pendir kotletı, soğan, duzlu xiyar dilimləri və xüsüsi sous.",,,,,
+188,Bif Freş,"Karamelləşdirilmiş küncütlü bulkanın arasında 100% mal ətindən döyülmüş bifşteks, 1 ədəd Çedder pendirinin dilimi, xüsusi sousu, təzə soğan, təzə Aysberq salatı, xıyar və pomidor dilimləri.","Xardal, Süd, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",,,,
+189,Çiken Freş,"Karamelləşdirilmiş bulkanın arasında suxarıya batırılmış, qızardılmış toyuq kotleti, təzə Aysberq salatı, xüsusi sousu, pomidor dilimi və xıyar.","Xardal, Süd, Kərəviz, Yumurta, Qlüten, Küncüt tumları.",,,,
+190,Fiş Freş,"Yumşaq bulkanın arasında qızardılmış balıq filesi, təzə Aysberq salatı, xüsusi sousu və pomidor dilimi.","Xardal, Süd, Soya, Yumurta, Qlüten, Balıq.",,,,
+191,"Fiş Bayts
+                                                                (10 əd.)",Qızardılmış xırçıldayan balıq filesinin dilimləri (xordalılar sinfi).,,,,,
+192,Habanero bif,"Habanero burgerin tərkibi: küncütlü brioş bulka, 100% mal ətindən döyülmüş bifşteks, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, təzə pomidor dilimi və habanero sous.",,,,,
+193,Habanero çiken,"Habanero burgerin tərkibi: küncütlü brioş bulka, toyuq filesi, emmental pendirinin dilimi, aysberq salatı, qızardılmış soğan, təzə pomidor dilimi və habanero sous.",,,,,
+194,Dabl Çikenburger,Təzə kahı və xüsusi McChicken™ sousu ilə dadlandırılmış və karamelli bulkada verilən suxarıya batırılmış qızardılmış toyuq kotleti.,"Xardal, Yumurta, Qlüten.",24,32,82,720
+195,Dabl Big Tasty™ (Ət),"Həcmli küncütlü bulka arasında 2 ədəd böyük, 100% mal ətindən döyülmüş bifşteks olan burger. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",76,30,50,1114
+196,Dabl Big Tasty™ (Toyuq),"Həcmli küncütlü bulka arasında toyuqdan olan 2 ədəd kotlet. Üç dilim Emmental pendiri, iki dilim təzə pomidor, Aysberq salatı, təzə soğan və “Qril” sousu ona xüsusi dad verir.","Süd, Yumurta, Qlüten, Küncüt tumları.",76,30,50,1114
+197,Şokoladlı Frappe,Südlü və xoş şokolad dadlı soyuq içki.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",13,4,67,355
+198,Karamelli Frappe,Karamel və qəhvə dadına malik dadlı soyuq içki. Üstü çalınmış qaymaq və karamelli sous ilə bəzədilib.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",8,20,70,490
+199,Çiyələkli Smuzi,McCafé® resepti ilə hazırlanmış çiyələkli smuzi süd və buz ilə qarışdırılmış çiyələk püresi və qaymaqlı yoğurtun ləzzətli birləşməsidir.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",2,1,28,131
+200,Smuzi Marakuya,McCafé® resepti ilə hazırlanmış marakuyalı smuzi süd və buz ilə qarışdırılmış marakuya püresi və qaymaqlı yoğurtun ləzzətli birləşməsidir.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",5,0,82,350
+201,Smuzi Qaragilə,McCafé® resepti ilə hazırlanmış qaragiləli smuzi süd və buz ilə qarışdırılmış qaragilə püresi və qaymaqlı yoğurtun ləzzətli birləşməsidir.,"Fındıq, Süd, Soya, Qlüten, Yumurta.",4,3,25,146
+202,Limonad Qreypfrut,Qreypfrut dadlı sərinləşdirici qazlı içki.,,,,,
+203,Limonad Çiyələk,Çiyələk dadlı sərinləşdirici qazlı içki.,,,,,
+204,"Südlü Kokteyl (Banan)
+                                                                (0.25L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,5,3,33,188
+205,"Südlü Kokteyl (Banan)
+                                                                (0.4L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,5,3,33,188
+206,"Südlü Kokteyl (Banan)
+                                                                (0.5L)","Yüksək keyfiyyətli, təzə süd və sirop qarışığından hazırlanmış qatı və ətirli kokteyl.",Süd.,5,3,33,188
+207,Çiken Bayts (10 əd.),"Fritürda, unda qızardılmış xırçıldayan acılı toyuq filesinin dilimləri.","Süd, Qlüten, Kərəviz, Yumurta.",17,18,12,279
+208,Şaurma Roll,"Lavaşda xüsüsi sousun əlavəsi ilə suxarıya batırılmış, qızardılmış toyuq filesi, kartof və turşu xiyar.","Sülfidlər, Xardal, Yumurta, Kərəvizç Qlüten.",13,16,23,390
+209,McFlurry™ (Albalı Kit-Kat™),"Kit-Kat™ və Albalı əlavəli, təbii, üzlü süddən hazırlanmış yumşaq qaymaqlı dondurma.","Fındıq, Süd, Soya, Qlüten.",6,8,50,300
+210,MakSandey Babl Qam,"Təbii, üzlü süddən hazırlanmış Babl Qam dolğulu dondurma.","Süd, Soya, Qlüten.",5,4,48,250
+211,Profitrol (ağ kremli),Ağ şokolad profiterolları şokolad ətirli krem ​​və şokolad lopaları ilə örtülmüşdür.,Fındıq.,2,20,24,294
+212,Profitrol (şokoladlı),Şokolad profiterolları ətirli krem ilə.,"Fındıq, Soya.",3,20,25,295
+213,McPops™  (şokoladlı),Şokolad içlikli yüngül ponçiklər.,"Süd, Soya, Yumurta, Qlüten, Fındıq, Küncüt..",6,33,46,509
+214,McPops™  (südlü karamelli),Südlü karamelli içlikli yüngül ponçiklər.,"Süd, Soya, Yumurta, Qlüten, Fındıq.",6,34,48,529
+215,McPops™  (giləmeyvə),Giləmeyvə içlikli yüngül ponçiklər.,"Süd, Soya, Yumurta, Qlüten, Fındıq, Küncüt.",5,24,45,417
+216,McCrispy™,"Küncütlü bulkanın arasında 100% toyuq filesindən xırtıldayan kotlet, təzə Aysberq salatı və ranç sousu.","Süd, Yumurta, Qlüten, Küncüt tumları.",26,18,53,484
+217,"Toyuq qanadları
+                                                                (8 əd.)",Ədviyyəli və qədərində xırçıltılı toyuq qanadları.,Qlüten.,17,14,19,268
+218,Maestro burger,"Küncütlü bulka arasında 100% mal ətindən bifşteks, Emmental pendiri, təzə pomidor, duzlu xiyar, aysberq salatı, qızarılmış göbələk, qızarılmış soğan və “deluxe” sousu ona xüsusi dad verir.","Xardal ,Yumurta, Süd, Küncüt , Glüten.",32,33,49,623
+219,"Çiken strips
+                                                                (3 əd.)","Xüsusi tamlı, acılı və xırçaldayan çiken stripslər.",Qlüten.,17,12,23,270
+220,"Çiken strips
+                                                                (5 əd.)","Xüsusi tamlı, acılı və xırçaldayan çiken stripslər.",Qlüten.,17,12,23,270
+221,Maffin,"Qızarmış  toyuq yumurtası, bir dilim pendir və isti-isti qızarmış Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",15,14,27,295
+222,Maffin ət ilə,"100% mal ətindən döyülmüş bifşteks, qızarmış  toyuq yumurtası, bir dilim pendir və isti-isti qızarmış  Muffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",25,23,30,423
+223,Dabl  Maffin ət ilə,"iki ədəd 100% mal ətindən döyülmüş bifşteks, qızarmış  toyuq yumurtası, bir dilim pendir və isti-isti qızarmış  Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",35,32,33,551
+224,Omlet  Maffin,"Omlet, bir dilim pendir və isti-isti qızarmış Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",14,11,26,189
+225,Omlet Maffin ət ilə,"100% təmiz mal ətindən kotlet, omlet, bir dilim pendir və isti-isti qızarmış  Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",22,24,29,405
+226,Dabl Omlet  Maffin ət ilə,"100% mal ətindən döyülmüş bifşteks, omlet, bir dilim pendir və isti-isti qızarmış  Maffin bulkası.","Süd,  Yumurta, Qlüten, Küncüt tumları.",34,31,27,549
+227,Omlet,"Omlet, yağ, isti-isti qızarmış  Maffin bulkası – boşqabda.","Süd,  Yumurta, Qlüten, Küncüt tumları.",,,,
+228,Böyük Səhər yeməyi,"100% mal ətindən döyülmüş bifşteks, omlet, haşbraun, yağ və ya cem, isti-isti qızarmış  Maffin bulkası – boşqabda.","Süd,  Yumurta, Qlüten, Küncüt tumları.",,,,
+229,Haşbraun,"Xırdalanmış haşbraun kartof kotleti – içi yumşaq, üstü isə xırtıltılı və qızarmış.","Süd, Qlüten.",1,7,24,172
+230,Yağ (82.5%),Allergenlər: Süd.,Süd.,,,,
+231,Bal,Maffin,,,,,
+232,Cem,Maffin,,,,,
+233,Çiken boks,"3 Toyuq qanadları, 3 Çiken strips, 10 Çiken Bayts , 6 Çiken McNuggets & 1 Frenç Frayz (Ekstra).","Kərəviz, Qlüten,",68,58,73,1085
+234,Habanero sous  (40ml),"İştahaçan, ədviyyatlı sous.","Xardal, Yumurta.",0,31,8,313
+235,Dor Blu sous (40ml),Dadlı və ətirli sous.,"Süd, Yumurta.",1,26,6,267
+236,Şampinyon delüks (ət),"Karamelləşdirilmiş bulkanın arasında 100% mal ətindən döyülmüş bifşteks, qızarılmış göbələk,  Emmental pendiri, “deluxe” sousu və duzlu xiyar dilimləri.","Xardal ,Yumurta, Süd, Glüten.",32,33,49,623
+237,Şampinyon delüks (toyuq),"Karamelləşdirilmiş bulkanın arasında qızardılmış toyuq kotleti, qızarılmış göbələk,  Emmental pendiri, “deluxe” sousu və duzlu xiyar dilimləri.","Xardal ,Yumurta, Süd, Kərəviz, Glüten.",33,32,64,679
+238,Mini Tasty,,"Süd, Yumurta, Qlüten.",31,14,36,473
+239,Dabl Mini Tasty,"Yumşaq bulka, 2 ədəd 100% mal ətindən bifşteks, 2 zərif emmental pendiri, təzə soğan və özəl tamlı ""Qril"" sousu.","Süd, Yumurta, Qlüten.",62,28,72,946
+240,Acılı sous,Dadlı və ətirli sous,,0,0,11,47
+241,Maestro Qrill Burger,"Qızardılmış Brioche bulka, 100% mal ətindən bifşteks, Emmental pendiri, turşu xiyarlar, xırtıldayan soğan, təzə kolslou qarışığı, göbələk sousu və hisə verilmiş qril sous.","Süd, Yumurta, Qlüten, Küncüt tumları, Xardal, Kərəviz",49,17,43,526
